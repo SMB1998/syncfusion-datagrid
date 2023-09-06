@@ -1,0 +1,43 @@
+[
+  {
+    "field": "Cuentas",
+    "isPrimaryKey": true,
+    "headerText": "Cuentas",
+    "textAlign": "Center",
+    "validationRules": { "required": true, "number": true },
+    "width": 120,
+    "defaultValue": ""
+  },
+  {
+    "field": "Descripción",
+    "headerText": "Descripción",
+    "validationRules": { "required": true },
+    "width": 140,
+    "defaultValue": "",
+    "textAlign": "Center"
+  },
+  {
+    "field": "p1",
+    "headerText": "p1",
+    "textAlign": "Center",
+    "width": 120,
+    "format": "C2",
+    "validationRules": { "required": true }
+  },
+  {
+    "field": "p2",
+    "headerText": "p2",
+    "width": 170,
+    "validationRules": { "required": true },
+    "textAlign": "center",
+    "format": "C2"
+  },
+  {
+    "field": "p3",
+    "headerText": "p3",
+    "width": 150,
+    "defaultValue": "",
+    "format": "C2",
+    "textAlign": "center"
+  }
+]

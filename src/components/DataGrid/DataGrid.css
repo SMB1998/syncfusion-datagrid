@@ -1,0 +1,27 @@
+.e-grid .e-gridheader {
+  border: 0px solid gray !important;
+}
+
+.e-grid .e-headercell {
+  color: black !important;
+  background-color: #d8d8d8 !important;
+  border-right: 1px solid white !important;
+}
+
+.e-grid .e-columnheader .e-icons.e-columnmenu::before {
+  color: black !important;
+}
+
+.e-grid .e-pager {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.e-grid .e-content .e-rowcell {
+  border-right: 1px solid #ccc;
+}
+
+.e-grid .e-headercell {
+  border-right: 1px solid #ccc;
+}
