@@ -2,42 +2,87 @@
   {
     "field": "Cuentas",
     "isPrimaryKey": true,
-    "headerText": "Cuentas",
-    "textAlign": "Center",
-    "validationRules": { "required": true, "number": true },
-    "width": 120,
+    "headerText": "Código de Cuenta",
+    "textAlign": "Left",
+    "validationRules": { "required": true, "number": true
+    },
+    "width": 60,
     "defaultValue": ""
   },
   {
     "field": "Descripción",
-    "headerText": "Descripción",
-    "validationRules": { "required": true },
-    "width": 140,
+    "headerText": "Nombre de la cuenta",
+    "validationRules": { "required": true
+    },
+    "width": 110,
     "defaultValue": "",
-    "textAlign": "Center"
+    "textAlign": "Left"
+  },
+  {
+    "field": "Saldo",
+    "headerText": "Saldo contable",
+    "textAlign": "Left",
+    "validationRules": { "required": true
+    },
+    "width": 90,
+    "defaultValue": "",
+    "format": "C2"
+  },
+  {
+    "field": "debe",
+    "headerText": "DEBE",
+    "textAlign": "Left",
+    "validationRules": { "required": true, "number": true
+    },
+    "width": 60,
+    "defaultValue": "",
+    "format": "C2"
+  },
+  {
+    "field": "haber",
+    "headerText": "HABER",
+    "textAlign": "Left",
+    "validationRules": { "required": true, "number": true
+    },
+    "width": 60,
+    "defaultValue": "",
+    "format": "C2"
   },
   {
     "field": "p1",
     "headerText": "p1",
-    "textAlign": "Center",
-    "width": 120,
+    "textAlign": "RIGHT",
+    "width": 100,
     "format": "C2",
-    "validationRules": { "required": true }
+    "validationRules": { "required": true
+    }
   },
   {
     "field": "p2",
     "headerText": "p2",
-    "width": 170,
-    "validationRules": { "required": true },
-    "textAlign": "center",
+    "width": 100,
+    "validationRules": { "required": true
+    },
+    "textAlign": "RIGHT",
     "format": "C2"
   },
   {
     "field": "p3",
     "headerText": "p3",
-    "width": 150,
+    "width": 100,
     "defaultValue": "",
     "format": "C2",
-    "textAlign": "center"
+    "textAlign": "RIGHT"
+  },
+  {
+    "field": "haber",
+    "isPrimaryKey": true,
+    "headerText": "Varacion %",
+    "textAlign": "Left",
+    "validationRules": { "required": true, "number": true
+    },
+    "width": 60,
+    "defaultValue": "",
+    "format": "C2"
   }
 ]
