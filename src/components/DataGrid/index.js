@@ -82,14 +82,16 @@ const DataGrid = ({ gridColumns, data }) => {
         setColumns(updatedColumns);
         break;
       case "add_column":
-        const newColumn = {
-          field: uuidv4(),
-          headerText: "Nueva Columna",
-          textAlign: "Center",
-          width: 80,
-          allowEditing: true,
-        };
-        setColumns((prevColumns) => [...prevColumns, newColumn]);
+        const newColumns = Array.from({ length: 3 }, (_, index) => {
+          return {
+            field: uuidv4(),
+            headerText: `Periodo ${index + 1}`,
+            textAlign: "Center",
+            width: 80,
+            allowEditing: true,
+          };
+        });
+        setColumns((prevColumns) => [...prevColumns, ...newColumns]);
         break;
       default:
         break;
