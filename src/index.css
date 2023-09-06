@@ -1,13 +1,41 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.e-grid .e-gridheader {
+  border: 0px solid gray !important;
+}
+
+.e-grid .e-headercell {
+  color: black !important;
+  background-color: #d8d8d8 !important;
+  border-right: 1px solid white !important;
+}
+
+.e-grid .e-columnheader .e-icons.e-columnmenu::before {
+  color: black !important;
+}
+
+.e-grid .e-pager {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.e-grid .e-content .e-rowcell {
+  border-right: 1px solid #ccc; /* Añadir un borde derecho a cada celda */
+}
+
+.e-grid .e-headercell {
+  border-right: 1px solid #ccc; /* Añadir un borde derecho a los encabezados de columna */
 }

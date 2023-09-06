@@ -1,0 +1,4797 @@
+[
+  {
+    "Cuentas": 1,
+    "Descripción": "ACTIVO",
+    "p1": 4216060028.46,
+    "p2": 35186938643.2,
+    "p3": 31240697122.96
+  },
+  {
+    "Cuentas": 111,
+    "Descripción": " EFECTIVO Y EQUIVALENTES DE EFECTIVO     ",
+    "p1": 4216060028.46,
+    "p2": 35186938643.2,
+    "p3": 31240697122.96
+  },
+  {
+    "Cuentas": 11105,
+    "Descripción": "  EFECTIVO EN CAJAS                       ",
+    "p1": 345084214.999964,
+    "p2": 38611522333.65,
+    "p3": 13207339985.7
+  },
+  {
+    "Cuentas": 11050501,
+    "Descripción": "   CAJA GENERAL",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 11051001,
+    "Descripción": "   CAJA MENOR PLANTA ALE",
+    "p1": 48000000,
+    "p2": 8000000,
+    "p3": 14000000
+  },
+  {
+    "Cuentas": 11051002,
+    "Descripción": "   CAJA MENOR MANTENIMIENTO",
+    "p1": 29000000,
+    "p2": 9000000,
+    "p3": 34000000
+  },
+  {
+    "Cuentas": 11051003,
+    "Descripción": "   CAJA MENOR DIRECCION DE PRODUCCION",
+    "p1": 18000000,
+    "p2": 0,
+    "p3": 85000000
+  },
+  {
+    "Cuentas": 11051501,
+    "Descripción": "   MONEDA EXTRANJERA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 11051502,
+    "Descripción": "   CAJA EN DOLARES",
+    "p1": 143281985,
+    "p2": 41826081390.82,
+    "p3": 22225668210.9
+  },
+  {
+    "Cuentas": 11110,
+    "Descripción": "  EFECTIVO EN BANCOS                      ",
+    "p1": 19489685152.74,
+    "p2": 43839892512.4,
+    "p3": 4785412607.92
+  },
+  {
+    "Cuentas": 11100501,
+    "Descripción": "   BCO OCCIDENTE CTA CTE ",
+    "p1": 7647421827.19969,
+    "p2": 79504014383.1001,
+    "p3": 6052318191.12
+  },
+  {
+    "Cuentas": 11100502,
+    "Descripción": "   DAVIVIENDA CTA CTE",
+    "p1": 14064583507.2,
+    "p2": 6810921177.16,
+    "p3": 2211699604.84001
+  },
+  {
+    "Cuentas": 112,
+    "Descripción": " OTROS ACTIVOS FINANCIEROS CP",
+    "p1": 467785073.85,
+    "p2": 3296590080,
+    "p3": 61650140240.15
+  },
+  {
+    "Cuentas": 11235,
+    "Descripción": "  TITULOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 20234912000
+  },
+  {
+    "Cuentas": 12356501,
+    "Descripción": "   TÍTULOS DE DEVOLUCIÓN DE IMPUESTOS NACIO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 36043437000
+  },
+  {
+    "Cuentas": 11265,
+    "Descripción": "  DEUDORES TRABAJADORES",
+    "p1": 316511010,
+    "p2": 2048306287,
+    "p3": 100559700
+  },
+  {
+    "Cuentas": 13651001,
+    "Descripción": "   VEHICULO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 13652501,
+    "Descripción": "   CALAMIDAD DOMESTICA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 13659503,
+    "Descripción": "   CELULARES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 13659507,
+    "Descripción": "   OTROS PRESTAMOS",
+    "p1": 1353963765,
+    "p2": 888422004,
+    "p3": 268159200
+  },
+  {
+    "Cuentas": 11280,
+    "Descripción": "  PRESTAMOS A TERCEROS",
+    "p1": 10514175384.2,
+    "p2": 12613600350,
+    "p3": 10911615980.4
+  },
+  {
+    "Cuentas": 13809501,
+    "Descripción": "   OTROS DEUDORES",
+    "p1": 3337772412,
+    "p2": 805392064,
+    "p3": 0
+  },
+  {
+    "Cuentas": 13809502,
+    "Descripción": "   OTROS DEUDORES (ESTRUMETAL)",
+    "p1": 367097983.6,
+    "p2": 2940275295,
+    "p3": 2799122124.95
+  },
+  {
+    "Cuentas": 13809504,
+    "Descripción": "   OTRAS ENTIDADES DE SEGURIDAD SOCIAL",
+    "p1": 1745596160,
+    "p2": 1474754541,
+    "p3": 1448155834
+  },
+  {
+    "Cuentas": 13809505,
+    "Descripción": "   COBROS CONT. DE MANDATO  (ESTRUMETAL)",
+    "p1": 2052434209,
+    "p2": 0,
+    "p3": 2112444005
+  },
+  {
+    "Cuentas": 13809506,
+    "Descripción": "   COBROS CONT. DE MANDATO  (ALMATEC)",
+    "p1": 0,
+    "p2": 0,
+    "p3": 734155786
+  },
+  {
+    "Cuentas": 113,
+    "Descripción": " DEUDORES OPERACIONES COMERCIALES Y O. CP",
+    "p1": 260315724214.5,
+    "p2": 137566019531.93,
+    "p3": 145681963505.28
+  },
+  {
+    "Cuentas": 11305,
+    "Descripción": "  DEUDORES CLIENTES                       ",
+    "p1": 12114832200.1,
+    "p2": 283915951108.8,
+    "p3": 194356603560.64
+  },
+  {
+    "Cuentas": 13050501,
+    "Descripción": "   NACIONALES CORRIENTES",
+    "p1": 4646880529.1,
+    "p2": 231581395555.5,
+    "p3": 204845040900.12
+  },
+  {
+    "Cuentas": 13051001,
+    "Descripción": "   CLIENTES DEL EXTERIOR",
+    "p1": 242708429307.5,
+    "p2": 37583086967.48,
+    "p3": 95858561353.81
+  },
+  {
+    "Cuentas": 11399,
+    "Descripción": "  DETERIORO",
+    "p1": -106861456.5,
+    "p2": -266035063.65,
+    "p3": -124671699.25
+  },
+  {
+    "Cuentas": 13990501,
+    "Descripción": "   DETERIORO DE CARTERA",
+    "p1": -110423505.05,
+    "p2": -1401118001.89,
+    "p3": -231533155.75
+  },
+  {
+    "Cuentas": 114,
+    "Descripción": " INVENTARIOS                             ",
+    "p1": 418317141600.96,
+    "p2": 630306318301.34,
+    "p3": 760990913525.5
+  },
+  {
+    "Cuentas": 11405,
+    "Descripción": "  INVENTARIO DE MATERIA PRIMA             ",
+    "p1": 148142502914,
+    "p2": 87697449947.6,
+    "p3": 74671685594.1
+  },
+  {
+    "Cuentas": 14050501,
+    "Descripción": "   ACERO",
+    "p1": 117944875,
+    "p2": 0,
+    "p3": 608074798
+  },
+  {
+    "Cuentas": 14050505,
+    "Descripción": "   SOLDADURA",
+    "p1": 13324346.7,
+    "p2": 144370457.25,
+    "p3": 172477868.4
+  },
+  {
+    "Cuentas": 14050510,
+    "Descripción": "   REPUESTOS",
+    "p1": 19612613683.53,
+    "p2": 8359810340.3,
+    "p3": 10452774751.56
+  },
+  {
+    "Cuentas": 14050515,
+    "Descripción": "   FERRETERIA",
+    "p1": 108268782.38,
+    "p2": 4271768403.21,
+    "p3": 599105962
+  },
+  {
+    "Cuentas": 14050520,
+    "Descripción": "   PINTURA",
+    "p1": 5569428139.25,
+    "p2": 2316306305.46,
+    "p3": 5461244379.17
+  },
+  {
+    "Cuentas": 14050525,
+    "Descripción": "   INSUMOS",
+    "p1": 12562840803.96,
+    "p2": 2615069014.2,
+    "p3": 18722730896.76
+  },
+  {
+    "Cuentas": 14050530,
+    "Descripción": "   DOTACION",
+    "p1": 1057644491.15,
+    "p2": 537880683.93,
+    "p3": 259812653.32
+  },
+  {
+    "Cuentas": 14050535,
+    "Descripción": "   COMBUSTIBLES Y LUBRICANTES",
+    "p1": 1661501793.28,
+    "p2": 2607066344.32,
+    "p3": 2237513646.42
+  },
+  {
+    "Cuentas": 14050540,
+    "Descripción": "   QUIMICOS",
+    "p1": 3989367130.58,
+    "p2": 8764672545.2,
+    "p3": 1211973974
+  },
+  {
+    "Cuentas": 14050545,
+    "Descripción": "   EMPAQUE",
+    "p1": 3210893542.5,
+    "p2": 1338510364.7,
+    "p3": 2901951686.4
+  },
+  {
+    "Cuentas": 14050550,
+    "Descripción": "   MATRICES",
+    "p1": 0,
+    "p2": 4376539188,
+    "p3": 0
+  },
+  {
+    "Cuentas": 14050555,
+    "Descripción": "   ALUMINIOS Y ALEANTES",
+    "p1": 114472265659.79,
+    "p2": 11293652845.58,
+    "p3": 60587679998.65
+  },
+  {
+    "Cuentas": 14050560,
+    "Descripción": "   SUBPRODUCTO ALE",
+    "p1": 22085163214.17,
+    "p2": 7911912154.3,
+    "p3": 51025585896.12
+  },
+  {
+    "Cuentas": 11406,
+    "Descripción": "  ANTICIPO COMPRA DE MATERIA PRIMA",
+    "p1": 1283775519,
+    "p2": 0,
+    "p3": 2712670637
+  },
+  {
+    "Cuentas": 14059501,
+    "Descripción": "   ANTICIPOS DE MATERIA PRIMA (NIIF)",
+    "p1": 691263741,
+    "p2": 0,
+    "p3": 1991580974
+  },
+  {
+    "Cuentas": 11410,
+    "Descripción": "  INVENTARIO DE PRODUCTOS EN PROCESO      ",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 14102501,
+    "Descripción": "   INVENTARIO EN PROCESO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 14102590,
+    "Descripción": "   CTA PUENTE COSTOS APLICADOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 11430,
+    "Descripción": "  INVENTARIO DE PRODUCTO TERMINADO",
+    "p1": 125084765038.68,
+    "p2": 51014389215.79,
+    "p3": 343670084005.25
+  },
+  {
+    "Cuentas": 14300501,
+    "Descripción": "   PRODUCTOS MANUFACTURADOS",
+    "p1": 565939923331.25,
+    "p2": 283724850659.16,
+    "p3": 98895645604.7
+  },
+  {
+    "Cuentas": 14300510,
+    "Descripción": "   PRODUCT. MANUFAC. PERFILES",
+    "p1": 43110983402.7,
+    "p2": 12999164105.1,
+    "p3": 63950674262.8
+  },
+  {
+    "Cuentas": 14300590,
+    "Descripción": "   AJUSTE CTO ESTANDAR INV. PROD. TERMINADO",
+    "p1": -273438185013.11,
+    "p2": -141299425710.2,
+    "p3": -617209151604.36
+  },
+  {
+    "Cuentas": 11435,
+    "Descripción": "  INVENTARIO MERCANCIA NO FABRICADA",
+    "p1": 9644124621.12,
+    "p2": 45859196865.74,
+    "p3": 89535501895.14
+  },
+  {
+    "Cuentas": 14351601,
+    "Descripción": "   LAMINAS DE ALUMINIO",
+    "p1": 1999050705.12003,
+    "p2": 23584373981.27,
+    "p3": 43278624021.04
+  },
+  {
+    "Cuentas": 14351690,
+    "Descripción": "   INV. DE LAMINAS DE ALUMINIO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 14352001,
+    "Descripción": "   COMERCIALIZACION DE PERFILES",
+    "p1": 1108424868.3,
+    "p2": 16924484595.38,
+    "p3": 59521396673.38
+  },
+  {
+    "Cuentas": 14352002,
+    "Descripción": "   PERFILES COMERCIALIZADOS",
+    "p1": 0,
+    "p2": 2244362440,
+    "p3": 0
+  },
+  {
+    "Cuentas": 11465,
+    "Descripción": "  INVENTARIOS EN TRANSITOS                ",
+    "p1": 155855287537.51,
+    "p2": 1603968480,
+    "p3": 60510882052.72
+  },
+  {
+    "Cuentas": 14650501,
+    "Descripción": "   MATERIAL",
+    "p1": 36313040283.75,
+    "p2": -650887826,
+    "p3": 12456718691.84
+  },
+  {
+    "Cuentas": 14650502,
+    "Descripción": "   GASTOS EN PUERTO",
+    "p1": 658729848,
+    "p2": 78420220,
+    "p3": 705781980
+  },
+  {
+    "Cuentas": 14650503,
+    "Descripción": "   TRANSPORTES",
+    "p1": 11937642482.88,
+    "p2": 0,
+    "p3": 140672007.7
+  },
+  {
+    "Cuentas": 14650504,
+    "Descripción": "   SEGUROS",
+    "p1": 71896034.4,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 14650505,
+    "Descripción": "   AGENCIAMIENTO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 6917520
+  },
+  {
+    "Cuentas": 14650506,
+    "Descripción": "   TRIBUTOS ADUANEROS",
+    "p1": 0,
+    "p2": 0,
+    "p3": -79744
+  },
+  {
+    "Cuentas": 14650507,
+    "Descripción": "   COMISIONES Y GASTOS BANCARIOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 97188
+  },
+  {
+    "Cuentas": 14650509,
+    "Descripción": "   ANTICIPOS MATERIAL IMPORTACIONES EN USD",
+    "p1": 42587395472.16,
+    "p2": 4455468000,
+    "p3": 3085171026
+  },
+  {
+    "Cuentas": 14650510,
+    "Descripción": "   ANTICIPOS VARIOS IMPORTACIONES",
+    "p1": 39567345,
+    "p2": 0,
+    "p3": 9000000
+  },
+  {
+    "Cuentas": 14650513,
+    "Descripción": "   OTROS GASTOS DE IMPORTACIONES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 115,
+    "Descripción": " PROPIEDADES, PLANTA Y EQUIPO            ",
+    "p1": 323490013543.95,
+    "p2": 101428605046.23,
+    "p3": 386926064584.8
+  },
+  {
+    "Cuentas": 11512,
+    "Descripción": "  MAQUINARIA Y EQUIPO EN MONTAJE",
+    "p1": 185862582883.75,
+    "p2": 1460017040.4,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15120501,
+    "Descripción": "   MAQUINARIA Y EQUIPO EN MONTAJE",
+    "p1": 144251556865,
+    "p2": 3102536210.85,
+    "p3": 0
+  },
+  {
+    "Cuentas": 11520,
+    "Descripción": "  MAQUINARIA Y EQUIPO                     ",
+    "p1": 176873761303.2,
+    "p2": 5900109893.2,
+    "p3": 51997853563.95
+  },
+  {
+    "Cuentas": 15200501,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 68028369732,
+    "p2": 188803516582.4,
+    "p3": 453124152485.85
+  },
+  {
+    "Cuentas": 11524,
+    "Descripción": "  EQUIPO DE OFICINA                       ",
+    "p1": 532298880,
+    "p2": 683747190,
+    "p3": 341737480
+  },
+  {
+    "Cuentas": 15240501,
+    "Descripción": "   MUEBLES Y ENSERES",
+    "p1": 414010240,
+    "p2": 629481540,
+    "p3": 991038692
+  },
+  {
+    "Cuentas": 11528,
+    "Descripción": "  EQUIPO DE COMPUTACION Y COMUNICACIÓN    ",
+    "p1": 4671173606,
+    "p2": 8651195212,
+    "p3": 8396413500
+  },
+  {
+    "Cuentas": 15280501,
+    "Descripción": "   EQUIPO DE COMPUTACION Y COMUNICACION",
+    "p1": 7418922786,
+    "p2": 2417245721,
+    "p3": 147305500
+  },
+  {
+    "Cuentas": 11571,
+    "Descripción": "  MEJORAS EN PROPIEDADES AJENAS",
+    "p1": 14169127507.74,
+    "p2": 161969680000.59,
+    "p3": 141691275077.4
+  },
+  {
+    "Cuentas": 15710501,
+    "Descripción": "   MEJORAS FUNDICION",
+    "p1": 37738452397.03,
+    "p2": 25023239669.62,
+    "p3": 27446147197.84
+  },
+  {
+    "Cuentas": 15710502,
+    "Descripción": "   MEJORAS EXTRUSION",
+    "p1": 36154614659.22,
+    "p2": 8610431551.43,
+    "p3": 43658402607.36
+  },
+  {
+    "Cuentas": 15710503,
+    "Descripción": "   MEJORAS ANODIZADO",
+    "p1": 12945844296,
+    "p2": 1742714895,
+    "p3": 28049329308
+  },
+  {
+    "Cuentas": 15710504,
+    "Descripción": "   MEJORAS PLANTA ALE PALMIRA",
+    "p1": 30408546015.36,
+    "p2": 19170605096.64,
+    "p3": 5949498133.44
+  },
+  {
+    "Cuentas": 15710505,
+    "Descripción": "   MEJORAS HORNO REFRACTARIO",
+    "p1": 10446409185,
+    "p2": 7795827750,
+    "p3": 10446409185
+  },
+  {
+    "Cuentas": 15710506,
+    "Descripción": "   MEJORAS EQUIPOS DE EMBOLO",
+    "p1": 506810000,
+    "p2": 456129000,
+    "p3": 532150500
+  },
+  {
+    "Cuentas": 11572,
+    "Descripción": "  MEJORAS EN PROPIEDAD AJENA EN CURSO",
+    "p1": 0,
+    "p2": 9608468668.24,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15720105,
+    "Descripción": "   CONSTRUCCIONES Y EDIFICACIONES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15720205,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 0,
+    "p2": 13673590027.88,
+    "p3": 0
+  },
+  {
+    "Cuentas": 11588,
+    "Descripción": "  PROPIEDADES, PLANTA Y EQUIPO EN TRANSITO",
+    "p1": 8393076978.39,
+    "p2": 32487213410.96,
+    "p3": 13322962634.88
+  },
+  {
+    "Cuentas": 15880101,
+    "Descripción": "   ACTIVOS PENDIENTES DE OPERACION",
+    "p1": 24794283375,
+    "p2": 1082166001.92,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15880102,
+    "Descripción": "   ANTICIPO COMPRA DE ACTIVOS FIJOS",
+    "p1": 3611841982.26,
+    "p2": 0,
+    "p3": 3959269880.76
+  },
+  {
+    "Cuentas": 15880501,
+    "Descripción": "   MATERIAL",
+    "p1": 0,
+    "p2": 0,
+    "p3": 1691468998.09
+  },
+  {
+    "Cuentas": 15880502,
+    "Descripción": "   GASTOS EN PUERTO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 34340520
+  },
+  {
+    "Cuentas": 15880503,
+    "Descripción": "   TRANSPORTES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 306398053.6
+  },
+  {
+    "Cuentas": 15880504,
+    "Descripción": "   SEGUROS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 1056270.52
+  },
+  {
+    "Cuentas": 15880505,
+    "Descripción": "   AGENCIAMIENTO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 37786386
+  },
+  {
+    "Cuentas": 15880506,
+    "Descripción": "   TRIBUTOS ADUANEROS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15880507,
+    "Descripción": "   COMISIONES Y GASTOS BANCARIOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 106210
+  },
+  {
+    "Cuentas": 15880508,
+    "Descripción": "   OTROS GASTOS DE IMPORTACION",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15880509,
+    "Descripción": "   ANTICIPOS MATERIAL IMPORTACIONES EN USD",
+    "p1": 0,
+    "p2": 17806968452,
+    "p3": 19930506.75
+  },
+  {
+    "Cuentas": 15880510,
+    "Descripción": "   ANTICIPOS VARIOS IMPORTACIONES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15880511,
+    "Descripción": "   HONORARIOS",
+    "p1": 0,
+    "p2": 32250000,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889501,
+    "Descripción": "   MATERIAL",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889502,
+    "Descripción": "   GASTOS EN PUERTO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889503,
+    "Descripción": "   TRANSPORTES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889504,
+    "Descripción": "   SEGUROS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889505,
+    "Descripción": "   AGENCIAMIENTO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889506,
+    "Descripción": "   TRIBUTOS ADUANEROS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889507,
+    "Descripción": "   COMISIONES Y GASTOS BANCARIOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889509,
+    "Descripción": "   ANTICIPOS MATERIAL IMPORTACIONES EN USD",
+    "p1": 0,
+    "p2": 1930702867.2,
+    "p3": 0
+  },
+  {
+    "Cuentas": 15889510,
+    "Descripción": "   ANTICIPOS VARIOS IMPORTACIONES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 11592,
+    "Descripción": "  DEPRECIACION ACUMULADA                  ",
+    "p1": -329129607572.48,
+    "p2": -40325971754.51,
+    "p3": -290465230751.91
+  },
+  {
+    "Cuentas": 15921001,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": -24013072829.9,
+    "p2": -44015158273.9,
+    "p3": -208528735397.72
+  },
+  {
+    "Cuentas": 15921501,
+    "Descripción": "   MUEBLES Y ENSERES",
+    "p1": -334483102.32,
+    "p2": -81405032.28,
+    "p3": -1110418454.46
+  },
+  {
+    "Cuentas": 15922001,
+    "Descripción": "   EQUIPO DE COMPUTACION Y COMUNICACION",
+    "p1": -6120145949.31,
+    "p2": -3221470322.72,
+    "p3": -85386505.36
+  },
+  {
+    "Cuentas": 15927101,
+    "Descripción": "   DEP MEJORAS FUNDICION",
+    "p1": -4915533771,
+    "p2": -3000007479.84,
+    "p3": -870627454.3
+  },
+  {
+    "Cuentas": 15927102,
+    "Descripción": "   DEP MEJORAS EN EXTRUSION",
+    "p1": -12388231988.25,
+    "p2": -6460189702.2,
+    "p3": -14247357925.32
+  },
+  {
+    "Cuentas": 15927103,
+    "Descripción": "   DEP MEJORAS ANODIZADO",
+    "p1": -16392626021.82,
+    "p2": -7743816280.51,
+    "p3": -15734221185.6
+  },
+  {
+    "Cuentas": 15927104,
+    "Descripción": "   DEP MEJORAS PLANTA ALE",
+    "p1": -27119500378.66,
+    "p2": -21565471690,
+    "p3": -5099248992.64
+  },
+  {
+    "Cuentas": 15927105,
+    "Descripción": "   DEP MEJORA HORNO REFRACTARIO",
+    "p1": -1946309089.79,
+    "p2": -9734677362.77,
+    "p3": -13876573395
+  },
+  {
+    "Cuentas": 15927106,
+    "Descripción": "   DEPRECIACION MEJORA EQUIPO EMBOLO",
+    "p1": -961596170.18,
+    "p2": -435856600.92,
+    "p3": -1038960500
+  },
+  {
+    "Cuentas": 116,
+    "Descripción": " ACT. INTANG DISTINT DE LA PLUSVALIA LP",
+    "p1": 0,
+    "p2": 187346640,
+    "p3": 81430466
+  },
+  {
+    "Cuentas": 11635,
+    "Descripción": "  LICENCIAS",
+    "p1": 0,
+    "p2": 160025255,
+    "p3": 469791150
+  },
+  {
+    "Cuentas": 16350501,
+    "Descripción": "   LICENCIAS",
+    "p1": 0,
+    "p2": 140509980,
+    "p3": 438471740
+  },
+  {
+    "Cuentas": 117,
+    "Descripción": " ACTIVOS NO FINANCIEROS CP",
+    "p1": 496710640,
+    "p2": 3823571340,
+    "p3": 1269608936.8
+  },
+  {
+    "Cuentas": 11705,
+    "Descripción": "  GASTOS PAGADOS POR ANTICIPADO           ",
+    "p1": 126874272,
+    "p2": 8566890885,
+    "p3": 162198399
+  },
+  {
+    "Cuentas": 17052001,
+    "Descripción": "   SEGUROS Y FIANZAS",
+    "p1": 15859284,
+    "p2": 686490700,
+    "p3": 1007471306
+  },
+  {
+    "Cuentas": 17059501,
+    "Descripción": "   OTROS",
+    "p1": 0,
+    "p2": 8388072630,
+    "p3": 1001819584
+  },
+  {
+    "Cuentas": 11715,
+    "Descripción": "  ANTICIPOS",
+    "p1": 143619968,
+    "p2": 5429896164,
+    "p3": 480404085.45
+  },
+  {
+    "Cuentas": 13300501,
+    "Descripción": "   ANTICIPOS A PROVEEDORES VARIOS",
+    "p1": 697245744,
+    "p2": 4019533524,
+    "p3": 1344833661
+  },
+  {
+    "Cuentas": 13309501,
+    "Descripción": "   ANTICIPOS PARA GASTOS DE VIAJE",
+    "p1": 74400,
+    "p2": 0,
+    "p3": 19521292
+  },
+  {
+    "Cuentas": 13309502,
+    "Descripción": "   ANT GASTOS DE VIAJE EN USD",
+    "p1": 0,
+    "p2": 0,
+    "p3": 15265568.25
+  },
+  {
+    "Cuentas": 118,
+    "Descripción": " ACTIVOS POR IMPUESTOS CP",
+    "p1": 103162999109.4,
+    "p2": 107392107506.6,
+    "p3": 99393411935.52
+  },
+  {
+    "Cuentas": 11805,
+    "Descripción": "  ANTICIPO DE IMPUESTOS DE RENTA Y COMPLEM",
+    "p1": 5628900613,
+    "p2": 6466596337.32,
+    "p3": 699850191
+  },
+  {
+    "Cuentas": 13551901,
+    "Descripción": "   AUTORETENCION DE RENTA 0.4%",
+    "p1": 5020370817,
+    "p2": 6312629757.86,
+    "p3": 10731036262
+  },
+  {
+    "Cuentas": 11820,
+    "Descripción": "  RETENCION EN LA FUENTE                  ",
+    "p1": 28637206992,
+    "p2": 34701085819.6,
+    "p3": 48703580772
+  },
+  {
+    "Cuentas": 13551501,
+    "Descripción": "   RETEFUENTE SERVICIOS 4%",
+    "p1": 0,
+    "p2": 0,
+    "p3": 7440545
+  },
+  {
+    "Cuentas": 13551502,
+    "Descripción": "   RETEFUENTE COMPRAS 2.5%",
+    "p1": 9943474650,
+    "p2": 3909981500.8,
+    "p3": 37673476490
+  },
+  {
+    "Cuentas": 11830,
+    "Descripción": "  IMPUESTO A LAS VENTAS RETENIDO          ",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 13551701,
+    "Descripción": "   RETEIVA POR VENTAS DEL 15% DEL IVA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 13551702,
+    "Descripción": "   RETEIVA EN VENTAS DEL 100% DE IVA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 11860,
+    "Descripción": "  SOBRANTES EN LIQUIDACION PRIVADA DE IMPU",
+    "p1": 106826276000,
+    "p2": 39026328000,
+    "p3": 98318031000
+  },
+  {
+    "Cuentas": 13552001,
+    "Descripción": "   SOBRANTES EN LIQ IMPTO DE RENTA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 13552002,
+    "Descripción": "   SOBRANTES EN LIQ SALDO A FAVOR IVA",
+    "p1": 109310608000,
+    "p2": 31339324000,
+    "p3": 120474207000
+  },
+  {
+    "Cuentas": 11870,
+    "Descripción": "  IMPUESTOS DESCONTABLES",
+    "p1": 41539313474.56,
+    "p2": 600301394.64,
+    "p3": 19707771276.2
+  },
+  {
+    "Cuentas": 13553001,
+    "Descripción": "   IVA EN COMPRA DE ACTIVOS FIJOS",
+    "p1": 32655448670.88,
+    "p2": 14465338681.64,
+    "p3": 20311238894.4
+  },
+  {
+    "Cuentas": 13553002,
+    "Descripción": "   DESCUENTO TRIBUTARIO ICA",
+    "p1": 8043718680,
+    "p2": 3593252992,
+    "p3": 1564056410
+  },
+  {
+    "Cuentas": 122,
+    "Descripción": " ACTIVOS POR IMPUESTOS DIFERIDOS LP",
+    "p1": 15032099346,
+    "p2": 42178542957,
+    "p3": 14348822103
+  },
+  {
+    "Cuentas": 12205,
+    "Descripción": "  ACTIVOS POR IMPUESTOS DIFERIDOS",
+    "p1": 4782940701,
+    "p2": 17060983668,
+    "p3": 10249158645
+  },
+  {
+    "Cuentas": 17107601,
+    "Descripción": "   IMPUESTO DIFERIDO ACTIVO",
+    "p1": 43729743552,
+    "p2": 6160910769,
+    "p3": 60128397384
+  },
+  {
+    "Cuentas": 2,
+    "Descripción": "PASIVO                                  ",
+    "p1": -1259835526578,
+    "p2": -122764845701.44,
+    "p3": -232127996470.6
+  },
+  {
+    "Cuentas": 221,
+    "Descripción": " OBLIGACIONES FINANCIERAS CORRIENTES",
+    "p1": -433973543287.97,
+    "p2": -55553291573.6,
+    "p3": -122729107213.12
+  },
+  {
+    "Cuentas": 22105,
+    "Descripción": "  PASIVOS BANCOS NACIONALES               ",
+    "p1": -115192507344.09,
+    "p2": -189086872975.32,
+    "p3": -229085192762.42
+  },
+  {
+    "Cuentas": 21051001,
+    "Descripción": "   PAGARES",
+    "p1": -140580077738.24,
+    "p2": -383266369288.5,
+    "p3": -122217190500
+  },
+  {
+    "Cuentas": 21051101,
+    "Descripción": "   TC MASTERCARD BCO DE OCCIDENTE 7141",
+    "p1": -22277341.6,
+    "p2": -3335992.16,
+    "p3": -359793656.04
+  },
+  {
+    "Cuentas": 21051102,
+    "Descripción": "   TC MASTERCARD BCO DE OCCIDENTE 4108",
+    "p1": -335983062.87,
+    "p2": -2165955.58,
+    "p3": -51626727.36
+  },
+  {
+    "Cuentas": 21052501,
+    "Descripción": "   CONTRATO LEASING FINANCIERO",
+    "p1": -85728410110,
+    "p2": 0,
+    "p3": -125946134435
+  },
+  {
+    "Cuentas": 22195,
+    "Descripción": "  OTRAS OBLIGACIONES                      ",
+    "p1": -20297432280,
+    "p2": -16015432716,
+    "p3": -18247077745
+  },
+  {
+    "Cuentas": 21950502,
+    "Descripción": "   PARTICULARES",
+    "p1": -16914526900,
+    "p2": -18239798371,
+    "p3": -842172819
+  },
+  {
+    "Cuentas": 222,
+    "Descripción": " CUENTAS POR PAGAR COMERCIALES Y OTRAS CU",
+    "p1": -673665527682,
+    "p2": -678510486694.25,
+    "p3": -1138481292239.28
+  },
+  {
+    "Cuentas": 22205,
+    "Descripción": "  PASIVOS PROVEEDORES NACIONALES          ",
+    "p1": -338780271510,
+    "p2": -106681220940,
+    "p3": -151367271678
+  },
+  {
+    "Cuentas": 22050501,
+    "Descripción": "   PROVEEDORES NACIONALES",
+    "p1": -289845343403,
+    "p2": -179834058156,
+    "p3": -212634976881
+  },
+  {
+    "Cuentas": 22210,
+    "Descripción": "  PASIVOS PROVEEDORES DEL EXTERIOR        ",
+    "p1": -509289830,
+    "p2": -30949439240,
+    "p3": -26764452474.6
+  },
+  {
+    "Cuentas": 22100501,
+    "Descripción": "   PROVEEDORES DEL EXTERIOR",
+    "p1": -502014261,
+    "p2": -80468542024,
+    "p3": -75832615344.7
+  },
+  {
+    "Cuentas": 22225,
+    "Descripción": "  COMPAÑIAS VINCULADAS",
+    "p1": -269622547500,
+    "p2": -43738566498,
+    "p3": -86131909220
+  },
+  {
+    "Cuentas": 22250105,
+    "Descripción": "   PARTES RELACIONADAS",
+    "p1": -134811273750,
+    "p2": -187103867797,
+    "p3": -47372550071
+  },
+  {
+    "Cuentas": 22250195,
+    "Descripción": "   CXP PARTE RELACIONADA PDTE DE FACTURA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 22230,
+    "Descripción": "  ORDENES DE COMPRA POR LEGALIZAR",
+    "p1": -665075000,
+    "p2": -387021600,
+    "p3": -52366042344
+  },
+  {
+    "Cuentas": 23300501,
+    "Descripción": "   PROVEEDORES PDTES POR LEGALIZAR",
+    "p1": -1042550000,
+    "p2": -110577600,
+    "p3": -45225218388
+  },
+  {
+    "Cuentas": 22235,
+    "Descripción": "  COSTOS Y GASTOS POR PAGAR               ",
+    "p1": -9067061136,
+    "p2": -53203858115.95,
+    "p3": -112274318335.36
+  },
+  {
+    "Cuentas": 23350501,
+    "Descripción": "   GASTOS FINANCIEROS",
+    "p1": -1277309232,
+    "p2": -148093824,
+    "p3": -1517961696
+  },
+  {
+    "Cuentas": 23350599,
+    "Descripción": "   GASTOS FINANCIEROS",
+    "p1": -2426294990,
+    "p2": -255128424,
+    "p3": -2529924624
+  },
+  {
+    "Cuentas": 23358001,
+    "Descripción": "   PRESTAMOS (ESTRUMETAL)",
+    "p1": -88717355.9999999,
+    "p2": -98755726.1,
+    "p3": -109190592
+  },
+  {
+    "Cuentas": 23358002,
+    "Descripción": "   PRESTAMOS CON PARTICULARES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 23359501,
+    "Descripción": "   CXP CAJAS MENORES",
+    "p1": -50824704,
+    "p2": 0,
+    "p3": -20533737
+  },
+  {
+    "Cuentas": 23359502,
+    "Descripción": "   CXP GASTOS DE VIAJE",
+    "p1": -1511100,
+    "p2": -12765200,
+    "p3": -476100
+  },
+  {
+    "Cuentas": 23359503,
+    "Descripción": "   CUENTAS POR PAGAR A EMPLEADOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 23359504,
+    "Descripción": "   CXP PROV. VARIOS (VIAJE, MOV Y CJ MENOR)",
+    "p1": -73789452,
+    "p2": 0,
+    "p3": -234428811
+  },
+  {
+    "Cuentas": 23359505,
+    "Descripción": "   OTRAS CUENTAS POR PAGAR ALUMINIO",
+    "p1": -44709295280,
+    "p2": -24507854112,
+    "p3": -87834337011
+  },
+  {
+    "Cuentas": 23359506,
+    "Descripción": "   OTRAS CUENTAS POR PAGAR EN USD",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 23359508,
+    "Descripción": "   REEMBOLSOS DE GASTOS DE MOVILIDAD",
+    "p1": 0,
+    "p2": 128440,
+    "p3": 0
+  },
+  {
+    "Cuentas": 23359509,
+    "Descripción": "   CXP GASTOS DE MOVILIDAD",
+    "p1": -24105660,
+    "p2": -36561150,
+    "p3": -157376742
+  },
+  {
+    "Cuentas": 23959901,
+    "Descripción": "   PROVISIONES",
+    "p1": -13002400983,
+    "p2": -7139782290,
+    "p3": -4164811062.93
+  },
+  {
+    "Cuentas": 225,
+    "Descripción": " BENEFICIOS DE EMPLEADOS                 ",
+    "p1": -25424466808,
+    "p2": -14071847166,
+    "p3": -16643893336
+  },
+  {
+    "Cuentas": 22505,
+    "Descripción": "  SALARIO POR PAGAR                       ",
+    "p1": -962953303,
+    "p2": -4891956736,
+    "p3": -5901418156
+  },
+  {
+    "Cuentas": 25050501,
+    "Descripción": "   SALARIOS POR PAGAR",
+    "p1": -1555539951,
+    "p2": -2369541544,
+    "p3": -5662171474
+  },
+  {
+    "Cuentas": 22510,
+    "Descripción": "  CESANTIAS CONSOLIDADAS                  ",
+    "p1": -2549769075,
+    "p2": -541721892,
+    "p3": -3061595875
+  },
+  {
+    "Cuentas": 25101001,
+    "Descripción": "   LEY 50 DE 1990 Y NORMAS POSTERIORES",
+    "p1": -8757902475,
+    "p2": -4062914190,
+    "p3": -1318841300
+  },
+  {
+    "Cuentas": 22515,
+    "Descripción": "  INTERESES SOBRE CESANTIAS               ",
+    "p1": -1065285993,
+    "p2": -19798592,
+    "p3": -53622392
+  },
+  {
+    "Cuentas": 25150501,
+    "Descripción": "   INTERESES SOBRE CESANTIAS",
+    "p1": -38504313,
+    "p2": -104392576,
+    "p3": -96150496
+  },
+  {
+    "Cuentas": 22520,
+    "Descripción": "  PRIMA DE SERVICIOS                      ",
+    "p1": 0,
+    "p2": -2641604581,
+    "p3": -3293582932
+  },
+  {
+    "Cuentas": 25200501,
+    "Descripción": "   PRIMA DE SERVICIOS",
+    "p1": 0,
+    "p2": -1253642852,
+    "p3": -742215872
+  },
+  {
+    "Cuentas": 22525,
+    "Descripción": "  VACACIONES CONSOLIDADAS                 ",
+    "p1": -38510289,
+    "p2": -768059584,
+    "p3": -4887550368
+  },
+  {
+    "Cuentas": 25250501,
+    "Descripción": "   VACACIONES CONSOLIDADAS",
+    "p1": -1617432138,
+    "p2": -8256640528,
+    "p3": -1508503200
+  },
+  {
+    "Cuentas": 22526,
+    "Descripción": "  PROVISIONES LABORALES",
+    "p1": 0,
+    "p2": 0,
+    "p3": -199353
+  },
+  {
+    "Cuentas": 26109501,
+    "Descripción": "   SALUD EPS",
+    "p1": 0,
+    "p2": 0,
+    "p3": -1865094
+  },
+  {
+    "Cuentas": 26109502,
+    "Descripción": "   PENSION OBLIGATORIA",
+    "p1": 0,
+    "p2": 0,
+    "p3": -2938936
+  },
+  {
+    "Cuentas": 26109503,
+    "Descripción": "   FONDO DE SOLIDARIDAD",
+    "p1": 0,
+    "p2": 0,
+    "p3": 2375835
+  },
+  {
+    "Cuentas": 22570,
+    "Descripción": "  RETENCION Y APORTE DE NOMINA            ",
+    "p1": -4617963474,
+    "p2": -4639876800,
+    "p3": -4443688296
+  },
+  {
+    "Cuentas": 23700501,
+    "Descripción": "   APORTES A E.P.S",
+    "p1": -97252100,
+    "p2": -25257300,
+    "p3": -717912000
+  },
+  {
+    "Cuentas": 23700601,
+    "Descripción": "   APORTES A LA A.R.L",
+    "p1": -385970000,
+    "p2": -171828800,
+    "p3": -18141200
+  },
+  {
+    "Cuentas": 23701001,
+    "Descripción": "   APORTES ICBF, SENA Y CCF",
+    "p1": -433347000,
+    "p2": -186487600,
+    "p3": -48603600
+  },
+  {
+    "Cuentas": 23702501,
+    "Descripción": "   EMBARGOS",
+    "p1": -35233572,
+    "p2": 0,
+    "p3": -31722233
+  },
+  {
+    "Cuentas": 23703002,
+    "Descripción": "   LIBRANZAS-DAVIVIENDA",
+    "p1": -45168000,
+    "p2": -232959000,
+    "p3": -129876980
+  },
+  {
+    "Cuentas": 23704501,
+    "Descripción": "   FONDOS DE PENSION",
+    "p1": -5429256000,
+    "p2": -1727518000,
+    "p3": -1646005200
+  },
+  {
+    "Cuentas": 23704503,
+    "Descripción": "   FONDO DE EMPLEADOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 23709501,
+    "Descripción": "   APORTES AFC",
+    "p1": -207000000,
+    "p2": -204000000,
+    "p3": -90000000
+  },
+  {
+    "Cuentas": 22575,
+    "Descripción": "  CUOTAS POR DEVOLVER                     ",
+    "p1": 0,
+    "p2": 267300,
+    "p3": 0
+  },
+  {
+    "Cuentas": 23750503,
+    "Descripción": "   DESCUENTOS RECORDAR",
+    "p1": 0,
+    "p2": 24300,
+    "p3": 0
+  },
+  {
+    "Cuentas": 23750504,
+    "Descripción": "   DESCUENTOS CASINO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 227,
+    "Descripción": " PASIVOS POR IMPUESTOS                   ",
+    "p1": -8024989230,
+    "p2": -2123438884,
+    "p3": -14885864420
+  },
+  {
+    "Cuentas": 22704,
+    "Descripción": "  IMPUESTO DE RENTA Y COMPLEMENTARIO      ",
+    "p1": -2811549000,
+    "p2": -147741000,
+    "p3": -6920736000
+  },
+  {
+    "Cuentas": 24040501,
+    "Descripción": "   IMPTO DE RENTA Y COMP VIG FISCAL CORRIEN",
+    "p1": -14274018000,
+    "p2": -119790000,
+    "p3": -8218374000
+  },
+  {
+    "Cuentas": 22708,
+    "Descripción": "  IMPUESTO SOBRE LAS VENTAS POR PAGAR     ",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 24080501,
+    "Descripción": "   IVA GENERADO EN VENTAS 19%",
+    "p1": -657462523830,
+    "p2": -608026914768,
+    "p3": -123684699842
+  },
+  {
+    "Cuentas": 24080502,
+    "Descripción": "   IVA DEVOLUCION EN COMPRAS DEL 19%",
+    "p1": -3754684090,
+    "p2": -1131009483,
+    "p3": -3457560799
+  },
+  {
+    "Cuentas": 24080504,
+    "Descripción": "   IVA GEN. RET DE INV-AF - MUESTRAS GRATIS",
+    "p1": -6455475810,
+    "p2": -1805564152,
+    "p3": -7654349889
+  },
+  {
+    "Cuentas": 24080599,
+    "Descripción": "   PAGO IVA",
+    "p1": 527311168331,
+    "p2": 418631185701,
+    "p3": 853589106900
+  },
+  {
+    "Cuentas": 24081001,
+    "Descripción": "   COMPRAS DEL 5%",
+    "p1": 8390746,
+    "p2": 16702840,
+    "p3": 50952256
+  },
+  {
+    "Cuentas": 24081002,
+    "Descripción": "   SERVICIOS DEL 5%",
+    "p1": 34049432,
+    "p2": 12280440,
+    "p3": 57800175
+  },
+  {
+    "Cuentas": 24081003,
+    "Descripción": "   DEVOLUCION EN VENTAS DEL 19%",
+    "p1": 1365736983,
+    "p2": 1715694540,
+    "p3": 9983311463
+  },
+  {
+    "Cuentas": 24081004,
+    "Descripción": "   COMPRAS DE MERCANCIA 19%",
+    "p1": 84722281520,
+    "p2": 399367229754,
+    "p3": 682704412302
+  },
+  {
+    "Cuentas": 24081005,
+    "Descripción": "   GASTOS Y SERVICIOS DEL 19%",
+    "p1": 63400243128.39,
+    "p2": 31670748821.2,
+    "p3": 18192676296.48
+  },
+  {
+    "Cuentas": 24081006,
+    "Descripción": "   IVA DESCONTABLE IMPORTACIONES 19%",
+    "p1": 218270296844,
+    "p2": 62661331050,
+    "p3": 246809883602
+  },
+  {
+    "Cuentas": 24081007,
+    "Descripción": "   GASTOS DE IMPORTACIONES 19%",
+    "p1": 1713564736,
+    "p2": 1308899156,
+    "p3": 2109924544
+  },
+  {
+    "Cuentas": 24081008,
+    "Descripción": "   IVA SERV. DEL EXT DEL 19% NO RESIDENTES",
+    "p1": 1867891405,
+    "p2": 0,
+    "p3": 439503860
+  },
+  {
+    "Cuentas": 24081099,
+    "Descripción": "   PAGO IVA",
+    "p1": -1094723900017.11,
+    "p2": -175399077390.6,
+    "p3": -1150609571964.75
+  },
+  {
+    "Cuentas": 24082001,
+    "Descripción": "   IVA TRANSITORIO EN GTOS Y SERV 19%",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 24082002,
+    "Descripción": "   IVA TRANSITORIO SERV 5%",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 24082003,
+    "Descripción": "   IVA TRANSITORIO COMPRAS 5%",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 24082099,
+    "Descripción": "   PAGO IVA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 22712,
+    "Descripción": "  DE INDUSTRIA Y COMERCIO                 ",
+    "p1": -5584230628,
+    "p2": -3873814144,
+    "p3": -6332221796
+  },
+  {
+    "Cuentas": 24120501,
+    "Descripción": "   IND Y CIO VIGENCIA FISCAL CORRIENTE",
+    "p1": -9954498076,
+    "p2": -1959174448,
+    "p3": -4890615564
+  },
+  {
+    "Cuentas": 24121001,
+    "Descripción": "   VIGENCIAS FISCALES ANTERIORES",
+    "p1": 0,
+    "p2": -5357100000,
+    "p3": -6282243000
+  },
+  {
+    "Cuentas": 22765,
+    "Descripción": "  RETENCION EN LA FUENTE                  ",
+    "p1": -6795208521,
+    "p2": -686881458,
+    "p3": -605839070
+  },
+  {
+    "Cuentas": 23650501,
+    "Descripción": "   SALARIOS",
+    "p1": -9397080994,
+    "p2": -686557067,
+    "p3": -1715154972
+  },
+  {
+    "Cuentas": 23650599,
+    "Descripción": "   PAGO RETENCION SALARIOS",
+    "p1": 1922425296,
+    "p2": 5875404022,
+    "p3": 12214627128
+  },
+  {
+    "Cuentas": 23651501,
+    "Descripción": "   HONORARIOS 10%",
+    "p1": -436377480,
+    "p2": -64615480,
+    "p3": -398472140
+  },
+  {
+    "Cuentas": 23651502,
+    "Descripción": "   HONORARIOS 11%",
+    "p1": -2455764046,
+    "p2": -396098944,
+    "p3": -186097425
+  },
+  {
+    "Cuentas": 23651503,
+    "Descripción": "   HONO. 3.5% LICEN. O DER. USO DE SOFTWARE",
+    "p1": -30201840,
+    "p2": -206114652,
+    "p3": -188761500
+  },
+  {
+    "Cuentas": 23651599,
+    "Descripción": "   PAGO RETENCION HONORARIOS",
+    "p1": 3015065440,
+    "p2": 2233306695,
+    "p3": 1575461125
+  },
+  {
+    "Cuentas": 23652002,
+    "Descripción": "   COMISIONES 11%",
+    "p1": -76962018,
+    "p2": -197902332,
+    "p3": -172248326
+  },
+  {
+    "Cuentas": 23652099,
+    "Descripción": "   PAGO RETENCION COMISIONES",
+    "p1": 260204918,
+    "p2": 109945740,
+    "p3": 84291734
+  },
+  {
+    "Cuentas": 23652501,
+    "Descripción": "   SERVICIOS 1%",
+    "p1": -733844491.44,
+    "p2": -350955741.84,
+    "p3": -976577413.68
+  },
+  {
+    "Cuentas": 23652502,
+    "Descripción": "   SERVICIOS 2%",
+    "p1": -38325048,
+    "p2": -40172200,
+    "p3": -50060948
+  },
+  {
+    "Cuentas": 23652503,
+    "Descripción": "   SERVICIOS 4%",
+    "p1": -5686892118,
+    "p2": -514895066,
+    "p3": -8800709950
+  },
+  {
+    "Cuentas": 23652504,
+    "Descripción": "   SERVICIOS 3.5%",
+    "p1": -220757024,
+    "p2": -1086058740,
+    "p3": -1337825244
+  },
+  {
+    "Cuentas": 23652505,
+    "Descripción": "   SERVICIOS 6%",
+    "p1": -35819000,
+    "p2": -70026648,
+    "p3": -6284400
+  },
+  {
+    "Cuentas": 23652599,
+    "Descripción": "   PAGO RETENCION POR SERVICIOS",
+    "p1": 8801575408.64,
+    "p2": 7830664161,
+    "p3": 7494027977.52
+  },
+  {
+    "Cuentas": 23653001,
+    "Descripción": "   ARRENDAMIENTO BIENES MUEBLES 4%",
+    "p1": -1174438676,
+    "p2": -492044910,
+    "p3": -1047623895
+  },
+  {
+    "Cuentas": 23653002,
+    "Descripción": "   ARRENDAMIENTO BIENES INMUEBLES 3.5%",
+    "p1": -43431200,
+    "p2": -103149100,
+    "p3": -97720200
+  },
+  {
+    "Cuentas": 23653099,
+    "Descripción": "   PAGO RETENCION POR ARRENDAMIENTOS",
+    "p1": 1576874207,
+    "p2": 496911030,
+    "p3": 1760321952
+  },
+  {
+    "Cuentas": 23653501,
+    "Descripción": "   RENDIMIENTOS FINANCIEROS 7%",
+    "p1": -407261114,
+    "p2": -720538894,
+    "p3": -783194450
+  },
+  {
+    "Cuentas": 23653599,
+    "Descripción": "   PAGO RETENCION POR RENDIMIENTOS",
+    "p1": 454252781,
+    "p2": 344605558,
+    "p3": 986825007
+  },
+  {
+    "Cuentas": 23654001,
+    "Descripción": "   COMPRAS 3.5% NO DECL. DE RENTA",
+    "p1": -213722010,
+    "p2": -68755455,
+    "p3": -118553995
+  },
+  {
+    "Cuentas": 23654002,
+    "Descripción": "   COMPRAS 2.5% DECL. DE RENTA",
+    "p1": -21424555560,
+    "p2": -36884300856,
+    "p3": -48744187857
+  },
+  {
+    "Cuentas": 23654003,
+    "Descripción": "   COMBUSTIBLES DERIV. DEL PETROLEO 0.1%",
+    "p1": -149594468,
+    "p2": -201272064,
+    "p3": -431890998
+  },
+  {
+    "Cuentas": 23654004,
+    "Descripción": "   RETEFUENTE MICRO Y PEQ EMP ZOMAC 0,625%",
+    "p1": 0,
+    "p2": 0,
+    "p3": -1840861878
+  },
+  {
+    "Cuentas": 23654099,
+    "Descripción": "   PAGO RETENCION POR COMPRAS",
+    "p1": 20771121640,
+    "p2": 28712209011,
+    "p3": 53361483032
+  },
+  {
+    "Cuentas": 23655005,
+    "Descripción": "   PAGOS AL EXTERIOR RETENCION 20%",
+    "p1": -205308756,
+    "p2": 0,
+    "p3": -1505597544
+  },
+  {
+    "Cuentas": 23655099,
+    "Descripción": "   PAGO RETENCION PAGOS AL EXTERIOR",
+    "p1": 0,
+    "p2": 0,
+    "p3": 1779342552
+  },
+  {
+    "Cuentas": 23658001,
+    "Descripción": "   AUTORRETENCION DE RENTA 0.4%",
+    "p1": -14968078995.86,
+    "p2": -3052203245.52,
+    "p3": -32574501318.58
+  },
+  {
+    "Cuentas": 23658099,
+    "Descripción": "   PAGO AUTORRETENCION DE RENTA",
+    "p1": 20589961231.98,
+    "p2": 9294067491.48,
+    "p3": 20468164198.08
+  },
+  {
+    "Cuentas": 22767,
+    "Descripción": "  IMPUESTO A LAS VENTAS RETENIDO          ",
+    "p1": -1625361000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 23670101,
+    "Descripción": "   POR COMPRAS AL RST 15% DEL IVA",
+    "p1": -7948080,
+    "p2": 0,
+    "p3": -16066305
+  },
+  {
+    "Cuentas": 23670102,
+    "Descripción": "   RETEIVA SERV. NO RESIDENTES EXTERIOR",
+    "p1": -931873640,
+    "p2": 0,
+    "p3": -563458480
+  },
+  {
+    "Cuentas": 23670199,
+    "Descripción": "   PAGO RETEIVA A RESPONSABLES DE IVA",
+    "p1": 6894720,
+    "p2": 0,
+    "p3": 1467589775
+  },
+  {
+    "Cuentas": 22768,
+    "Descripción": "  IMPUESTO DE INDUSTRIA Y COMERCIO RETENID",
+    "p1": -81872922,
+    "p2": -78174360,
+    "p3": -38161056
+  },
+  {
+    "Cuentas": 23680101,
+    "Descripción": "   RETEICA 7*1000 PALMIRA",
+    "p1": -545560560,
+    "p2": -187840917,
+    "p3": -403910724
+  },
+  {
+    "Cuentas": 23680102,
+    "Descripción": "   RETEICA 10*1000 PALMIRA",
+    "p1": -338525439,
+    "p2": -541860879,
+    "p3": -1156613315
+  },
+  {
+    "Cuentas": 23680103,
+    "Descripción": "   RETEICA 7.5*1000 PALMIRA",
+    "p1": -209364829.4,
+    "p2": -221869918.6,
+    "p3": -288195428.4
+  },
+  {
+    "Cuentas": 23680104,
+    "Descripción": "   RETEICA 8*1000 PALMIRA",
+    "p1": -455551120,
+    "p2": -353580552,
+    "p3": -390684312
+  },
+  {
+    "Cuentas": 23680105,
+    "Descripción": "   RETEICA 6*1000 PALMIRA",
+    "p1": -1065960,
+    "p2": -1270080,
+    "p3": -2625372
+  },
+  {
+    "Cuentas": 23680106,
+    "Descripción": "   RETEICA 5*1000 PALMIRA",
+    "p1": -11830402,
+    "p2": -13268610,
+    "p3": -22141539
+  },
+  {
+    "Cuentas": 23680199,
+    "Descripción": "   PAGO RETEICA SERVICIOS",
+    "p1": 3601095312,
+    "p2": 1802665756.8,
+    "p3": 139265928.6
+  },
+  {
+    "Cuentas": 23680201,
+    "Descripción": "   RETEICA COMPRAS 10*1000 PALMIRA",
+    "p1": -1016320440,
+    "p2": -1693584680,
+    "p3": -2667841155
+  },
+  {
+    "Cuentas": 23680202,
+    "Descripción": "   RETEICA COMPRAS 5*1000 PALMIRA",
+    "p1": -826680,
+    "p2": -2721155,
+    "p3": -826680
+  },
+  {
+    "Cuentas": 23680203,
+    "Descripción": "   RETEICA COMPRAS 7*1000 PALMIRA",
+    "p1": -63647584,
+    "p2": -10435200,
+    "p3": -81591000
+  },
+  {
+    "Cuentas": 23680204,
+    "Descripción": "   RETEICA COMPRAS 6*1000 PALMIRA",
+    "p1": -91665752,
+    "p2": -50574208,
+    "p3": -15804440
+  },
+  {
+    "Cuentas": 23680205,
+    "Descripción": "   RETEICA COMPRAS 4*1000 PALMIRA",
+    "p1": -488565,
+    "p2": -423423,
+    "p3": -868560
+  },
+  {
+    "Cuentas": 23680206,
+    "Descripción": "   RETEICA COMPRAS 7,5*1000 PALMIRA",
+    "p1": -19372500,
+    "p2": 0,
+    "p3": -14883750
+  },
+  {
+    "Cuentas": 23680299,
+    "Descripción": "   PAGO RETEICA COMPRAS",
+    "p1": 1179786140,
+    "p2": 1327832460,
+    "p3": 2548501984
+  },
+  {
+    "Cuentas": 228,
+    "Descripción": " OTROS PASIVOS NO FINANCIEROS            ",
+    "p1": -208931241686.64,
+    "p2": -43624058805.72,
+    "p3": -84302764399.35
+  },
+  {
+    "Cuentas": 22805,
+    "Descripción": "  ANTICIPOS Y AVANCES RECIBIDOS           ",
+    "p1": -125833588743.09,
+    "p2": -8482455878.89,
+    "p3": -82429369634.92
+  },
+  {
+    "Cuentas": 28050501,
+    "Descripción": "   NACIONALES",
+    "p1": -13251572950,
+    "p2": -7122159440,
+    "p3": -6213835539
+  },
+  {
+    "Cuentas": 28050502,
+    "Descripción": "   NACIONALES MATRICES",
+    "p1": -324417800,
+    "p2": -552617500,
+    "p3": 0
+  },
+  {
+    "Cuentas": 28050503,
+    "Descripción": "   CLIENTES DEL EXTERIOR",
+    "p1": -6377209096.59,
+    "p2": -33944263130.91,
+    "p3": -133225944061.82
+  },
+  {
+    "Cuentas": 28050504,
+    "Descripción": "   CONSIGNACIONES PDTES POR IDENTIFICAR",
+    "p1": 0,
+    "p2": -594254486,
+    "p3": -136144848
+  },
+  {
+    "Cuentas": 230,
+    "Descripción": " PASIVOS POR IMPUESTOS DIFERIDO (LP)",
+    "p1": -216611448,
+    "p2": -7267112610,
+    "p3": -749114591
+  },
+  {
+    "Cuentas": 23025,
+    "Descripción": "  IMPUESTOS DIFERIDOS                     ",
+    "p1": -279789787,
+    "p2": -1336480480,
+    "p3": -351993603
+  },
+  {
+    "Cuentas": 27250505,
+    "Descripción": "   IMPUESTO DIFERIDO PASIVO",
+    "p1": -415171942,
+    "p2": -2505900900,
+    "p3": -306866218
+  },
+  {
+    "Cuentas": 3,
+    "Descripción": "PATRIMONIO                              ",
+    "p1": -196563158737.35,
+    "p2": -273189474855.3,
+    "p3": -174208815439.12
+  },
+  {
+    "Cuentas": 331,
+    "Descripción": " CAPITAL SOCIAL                          ",
+    "p1": -9465003000,
+    "p2": -24188341000,
+    "p3": -66255021000
+  },
+  {
+    "Cuentas": 33105,
+    "Descripción": "  CAPITAL SUSCRITO Y PAGADO               ",
+    "p1": -75720024000,
+    "p2": -28395009000,
+    "p3": -51531683000
+  },
+  {
+    "Cuentas": 31050501,
+    "Descripción": "   CAPITAL AUTORIZADO",
+    "p1": -312000000000,
+    "p2": -216000000000,
+    "p3": -210000000000
+  },
+  {
+    "Cuentas": 31051001,
+    "Descripción": "   CAPITAL POR SUSCRIBIR (DB)",
+    "p1": 103914993000,
+    "p2": 9896666000,
+    "p3": 242468317000
+  },
+  {
+    "Cuentas": 332,
+    "Descripción": " SUPERAVIT DE CAPITAL                    ",
+    "p1": -46531329000,
+    "p2": -89483325000,
+    "p3": -322139970000
+  },
+  {
+    "Cuentas": 33205,
+    "Descripción": "  PRIMA EN COLOCACION DE ACCIONES         ",
+    "p1": -261291309000,
+    "p2": -289925973000,
+    "p3": -93062658000
+  },
+  {
+    "Cuentas": 32050501,
+    "Descripción": "   PIRMA EN COLOCACION DE ACCIONES",
+    "p1": -186125316000,
+    "p2": -282767307000,
+    "p3": -153911319000
+  },
+  {
+    "Cuentas": 336,
+    "Descripción": " RESULTADOS DEL EJERCICIO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 33605,
+    "Descripción": "  UTILIDAD DEL EJERCICIO                  ",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 36050501,
+    "Descripción": "   UTILIDAD GRAVADA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 33610,
+    "Descripción": "  PERDIDA DEL EJERCICIO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 36100501,
+    "Descripción": "   PERDIDA DEL EJERCICIO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 337,
+    "Descripción": " UTILIDAD ACUMULADA                      ",
+    "p1": 110450788259.75,
+    "p2": 7796526230.1,
+    "p3": 95768082630.99
+  },
+  {
+    "Cuentas": 33710,
+    "Descripción": "  PERDIDAS ACUMULADAS",
+    "p1": 58473946725.75,
+    "p2": 2598842076.7,
+    "p3": 28882437618.87
+  },
+  {
+    "Cuentas": 37100501,
+    "Descripción": "   PERDIDA ACUMULADA",
+    "p1": 67569893994.2,
+    "p2": 15593052460.2,
+    "p3": 92727826039.53
+  },
+  {
+    "Cuentas": 4,
+    "Descripción": "INGRESOS                                ",
+    "p1": -1375729287468.84,
+    "p2": -339354814622.67,
+    "p3": -964857042682.32
+  },
+  {
+    "Cuentas": 441,
+    "Descripción": " INGRESOS DE ACTIVIDADES ORDINARIAS      ",
+    "p1": -74432584173.84,
+    "p2": -841024702126.56,
+    "p3": -743606450162
+  },
+  {
+    "Cuentas": 44120,
+    "Descripción": "  INDUSTRIAS MANUFACTURERAS               ",
+    "p1": -2142016664958.56,
+    "p2": -183019101056.32,
+    "p3": -1447101248040
+  },
+  {
+    "Cuentas": 41205901,
+    "Descripción": "   PERFILES DE ALUMINIO",
+    "p1": -102226134550,
+    "p2": -302540134012,
+    "p3": -322743240975
+  },
+  {
+    "Cuentas": 41205902,
+    "Descripción": "   DESCUENTOS PERFILES DE ALUMINIO",
+    "p1": 10078430219.52,
+    "p2": 2137170471.04,
+    "p3": 1626039900
+  },
+  {
+    "Cuentas": 41205903,
+    "Descripción": "   PERFILES DE ALUMINIO SIN IVA",
+    "p1": -118270800,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 41205904,
+    "Descripción": "   EXPORTACION PERFILES DE ALUMINIO",
+    "p1": -1041269379402,
+    "p2": -156282873123,
+    "p3": -708809654728
+  },
+  {
+    "Cuentas": 41205906,
+    "Descripción": "   FLETE INTERNACIONAL EXP. PERFILES",
+    "p1": -12061670175,
+    "p2": -1197952094,
+    "p3": -12896840355
+  },
+  {
+    "Cuentas": 41205907,
+    "Descripción": "   SEGURO INTERNACIONAL",
+    "p1": -426693605,
+    "p2": 0,
+    "p3": -1479921586
+  },
+  {
+    "Cuentas": 44122,
+    "Descripción": "  DEVOLUCIONES EN VENTA",
+    "p1": 43873780361,
+    "p2": 1684540792,
+    "p3": 5208268715
+  },
+  {
+    "Cuentas": 41750101,
+    "Descripción": "   DEV. EN VENTAS DE PERFILES DE ALUMINIO",
+    "p1": 9808567413,
+    "p2": 1542484008,
+    "p3": 2383550790
+  },
+  {
+    "Cuentas": 41750102,
+    "Descripción": "   DEV EN VENTAS DE LAMINAS DE ALUMINIO",
+    "p1": 1315993380,
+    "p2": 227696184,
+    "p3": 166711622
+  },
+  {
+    "Cuentas": 41750103,
+    "Descripción": "   DEV. EN VENTAS PERFILES COMERCIALIZADOS",
+    "p1": 390131940,
+    "p2": 523574448,
+    "p3": 13621230
+  },
+  {
+    "Cuentas": 41750104,
+    "Descripción": "   DEV. DE VENTA DE PERFILES AL EXTERIOR",
+    "p1": 39061816850,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 44135,
+    "Descripción": "  COMERCIO AL POR MAYOR Y AL POR MENOR    ",
+    "p1": -57917603835,
+    "p2": -27210711229,
+    "p3": -241916648214
+  },
+  {
+    "Cuentas": 41351601,
+    "Descripción": "   VENTA DE LAMINAS DE ALUMINIO",
+    "p1": -305746371734,
+    "p2": -33404672569,
+    "p3": -80447169726
+  },
+  {
+    "Cuentas": 41351602,
+    "Descripción": "   VENTA DE MATRICES",
+    "p1": -1157375000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 41351604,
+    "Descripción": "   VENTA DE CHATARRA DE ALUMINIO EXCLUIDA",
+    "p1": -9016685800,
+    "p2": -2618544000,
+    "p3": -2124570000
+  },
+  {
+    "Cuentas": 41351605,
+    "Descripción": "   VENTA DE ALUMINIO PRIMARIO Y ALEANTES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 41351607,
+    "Descripción": "   COMERCIALIZACION DE PERFILES",
+    "p1": -125891659368,
+    "p2": -15131775990,
+    "p3": -73342957502
+  },
+  {
+    "Cuentas": 41351608,
+    "Descripción": "   DESCUENTO VENTA PERFILES COMERCIALIZADOS",
+    "p1": 9498606,
+    "p2": 12125880,
+    "p3": 51585158
+  },
+  {
+    "Cuentas": 41351609,
+    "Descripción": "   DESCUENTO VENTA LAMINAS DE ALUMINIO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 1995817
+  },
+  {
+    "Cuentas": 41351610,
+    "Descripción": "   VENTA DE ESCORIA DE ALUMINIO",
+    "p1": 0,
+    "p2": 0,
+    "p3": -2757136500
+  },
+  {
+    "Cuentas": 41351695,
+    "Descripción": "   OTROS INSUMOS Y MATERIAS PRIMAS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 442,
+    "Descripción": " OTROS INGRESOS                          ",
+    "p1": -13747722973.92,
+    "p2": -6207256629.16,
+    "p3": -1182901460.38
+  },
+  {
+    "Cuentas": 44205,
+    "Descripción": "  OTRAS VENTAS                            ",
+    "p1": -5248108142,
+    "p2": -2453781540,
+    "p3": -738660000
+  },
+  {
+    "Cuentas": 42051001,
+    "Descripción": "   MATERIALES APROVECHABLES GRAVADO",
+    "p1": -12206347270,
+    "p2": -968167160,
+    "p3": -2772000
+  },
+  {
+    "Cuentas": 42051002,
+    "Descripción": "   MATERIALES APROVECHABLES EXCLUIDO",
+    "p1": -6012985680,
+    "p2": -1635833640,
+    "p3": -792708000
+  },
+  {
+    "Cuentas": 44235,
+    "Descripción": "  SERVICIOS                               ",
+    "p1": 0,
+    "p2": 0,
+    "p3": -207272520
+  },
+  {
+    "Cuentas": 42359501,
+    "Descripción": "   SERVICIOS VARIOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": -95664240
+  },
+  {
+    "Cuentas": 44245,
+    "Descripción": "  UTILIDAD EN VENTA DE PROPIEDAD PLANTA Y ",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 42452001,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 44250,
+    "Descripción": "  RECUPERACIONES                          ",
+    "p1": -141440598,
+    "p2": -4712264,
+    "p3": -47681634
+  },
+  {
+    "Cuentas": 42503501,
+    "Descripción": "   DE DETERIORO DE CARTERA",
+    "p1": -84820752,
+    "p2": -29451650,
+    "p3": 0
+  },
+  {
+    "Cuentas": 42505001,
+    "Descripción": "   REINTEGRO DE OTROS COSTOS Y GASTOS",
+    "p1": -73477195,
+    "p2": 0,
+    "p3": -18164432
+  },
+  {
+    "Cuentas": 44265,
+    "Descripción": "  INGRESOS DE EJERCICIOS ANTERIORES       ",
+    "p1": -8778030,
+    "p2": -40964140,
+    "p3": 0
+  },
+  {
+    "Cuentas": 42650101,
+    "Descripción": "   INGRESOS DE EJERCICIOS ANTERIORES",
+    "p1": -46816160,
+    "p2": -14044848,
+    "p3": 0
+  },
+  {
+    "Cuentas": 44295,
+    "Descripción": "  DIVERSOS                                ",
+    "p1": -70066571.6,
+    "p2": -8146508.5,
+    "p3": -1369155.27
+  },
+  {
+    "Cuentas": 42950501,
+    "Descripción": "   APROVECHAMIENTOS",
+    "p1": -12684110,
+    "p2": 0,
+    "p3": -1513000
+  },
+  {
+    "Cuentas": 42958101,
+    "Descripción": "   AJUSTE AL PESO",
+    "p1": -42043036.23,
+    "p2": -17270598.02,
+    "p3": -915759.53
+  },
+  {
+    "Cuentas": 443,
+    "Descripción": " DIFERENCIA EN CAMBIO                    ",
+    "p1": -27055979004.24,
+    "p2": -7495941992.4,
+    "p3": -13708743433.77
+  },
+  {
+    "Cuentas": 44310,
+    "Descripción": "  DIFERENCIA EN CAMBIO                    ",
+    "p1": -25631980109.28,
+    "p2": -2623579697.34,
+    "p3": -8308329353.8
+  },
+  {
+    "Cuentas": 42102001,
+    "Descripción": "   AJUSTE EN CAMBIO",
+    "p1": -42719966848.8,
+    "p2": -15554079634.23,
+    "p3": -1661665870.76
+  },
+  {
+    "Cuentas": 42102002,
+    "Descripción": "   AJUSTE EN CAMBIO REALIZADA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 5,
+    "Descripción": "COSTOS Y GASTOS                         ",
+    "p1": 2382995400598.34,
+    "p2": 31559375557.44,
+    "p3": 1008441691944.4
+  },
+  {
+    "Cuentas": 551,
+    "Descripción": " GASTOS ADMINISTRATIVOS                  ",
+    "p1": 6250609180.68,
+    "p2": 9382716628.52,
+    "p3": 40064672384.8
+  },
+  {
+    "Cuentas": 55105,
+    "Descripción": "  GASTOS DE PERSONAL                      ",
+    "p1": 58059600308.4,
+    "p2": 2113744644,
+    "p3": 11182907045.76
+  },
+  {
+    "Cuentas": 51050301,
+    "Descripción": "   SALARIO INTEGRAL",
+    "p1": 20628534808,
+    "p2": 8967333564,
+    "p3": 7997593278
+  },
+  {
+    "Cuentas": 51050601,
+    "Descripción": "   SUELDOS",
+    "p1": 2903935725,
+    "p2": 2797606570,
+    "p3": 7849160688
+  },
+  {
+    "Cuentas": 51051501,
+    "Descripción": "   HORAS EXTRAS Y RECARGOS",
+    "p1": 39510156,
+    "p2": 6965360,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51052401,
+    "Descripción": "   INCAPACIDADES",
+    "p1": 48674304,
+    "p2": 44739840,
+    "p3": 1666675
+  },
+  {
+    "Cuentas": 51052701,
+    "Descripción": "   AUXILIO DE TRANSPORTE",
+    "p1": 16422308,
+    "p2": 111649107,
+    "p3": 29117235
+  },
+  {
+    "Cuentas": 51053001,
+    "Descripción": "   CESANTIAS",
+    "p1": 1147648999,
+    "p2": 928573020,
+    "p3": 274257698
+  },
+  {
+    "Cuentas": 51053301,
+    "Descripción": "   INTERESES SOBRE CESANTIAS",
+    "p1": 247116096,
+    "p2": 1606796,
+    "p3": 32532682
+  },
+  {
+    "Cuentas": 51053601,
+    "Descripción": "   PRIMA DE SERVICIOS",
+    "p1": 448348736,
+    "p2": 216633396,
+    "p3": 104076346
+  },
+  {
+    "Cuentas": 51053901,
+    "Descripción": "   VACACIONES",
+    "p1": 2060740695,
+    "p2": 1068228641,
+    "p3": 110578490
+  },
+  {
+    "Cuentas": 51054501,
+    "Descripción": "   AUXILIOS",
+    "p1": 44934672,
+    "p2": 127094400,
+    "p3": 389699700
+  },
+  {
+    "Cuentas": 51054801,
+    "Descripción": "   BONIFICACIONES",
+    "p1": 12000000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51055101,
+    "Descripción": "   DOTACION Y SUMINISTRO A TRABAJADORES",
+    "p1": 90741856.92,
+    "p2": 3041500,
+    "p3": 59623356.96
+  },
+  {
+    "Cuentas": 51056401,
+    "Descripción": "   ATENCION A EMPLEADOS",
+    "p1": 235772600,
+    "p2": 16910096,
+    "p3": 20292000
+  },
+  {
+    "Cuentas": 51056499,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 270921,
+    "p2": 1953,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51056801,
+    "Descripción": "   APORTES A LA ARL",
+    "p1": 125876800,
+    "p2": 350640200,
+    "p3": 456752000
+  },
+  {
+    "Cuentas": 51056901,
+    "Descripción": "   APORTES A EPS",
+    "p1": 598065596,
+    "p2": 320791591,
+    "p3": 433464816
+  },
+  {
+    "Cuentas": 51057001,
+    "Descripción": "   APORTES A FONDOS DE PENSION Y CESANTIAS",
+    "p1": 6606157680,
+    "p2": 945037091,
+    "p3": 810115744
+  },
+  {
+    "Cuentas": 51057201,
+    "Descripción": "   APORTES A C.C.F",
+    "p1": 2040155100,
+    "p2": 51092400,
+    "p3": 679281500
+  },
+  {
+    "Cuentas": 51057501,
+    "Descripción": "   APORTES I.C.B.F",
+    "p1": 43257000,
+    "p2": 16378200,
+    "p3": 11849600
+  },
+  {
+    "Cuentas": 51057801,
+    "Descripción": "   SENA",
+    "p1": 63446900,
+    "p2": 47320000,
+    "p3": 122443800
+  },
+  {
+    "Cuentas": 51058401,
+    "Descripción": "   GASTOS MEDICOS Y DROGAS",
+    "p1": 60259860,
+    "p2": 111276000,
+    "p3": 203314800
+  },
+  {
+    "Cuentas": 51058499,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 43780,
+    "p2": 17520,
+    "p3": 15753
+  },
+  {
+    "Cuentas": 55110,
+    "Descripción": "  HONORARIOS                              ",
+    "p1": 538230663,
+    "p2": 1595246176,
+    "p3": 1103342448
+  },
+  {
+    "Cuentas": 51101001,
+    "Descripción": "   REVISORIA FISCAL",
+    "p1": 330828120,
+    "p2": 39161700,
+    "p3": 237802208
+  },
+  {
+    "Cuentas": 51101099,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 1270842,
+    "p2": 151416,
+    "p3": 173945
+  },
+  {
+    "Cuentas": 51102501,
+    "Descripción": "   ASESORIA JURIDICA",
+    "p1": 116000000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51103501,
+    "Descripción": "   ASESORIA TECNICA",
+    "p1": 1356144969,
+    "p2": 223650000,
+    "p3": 110420590
+  },
+  {
+    "Cuentas": 51103599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 438836,
+    "p2": 0,
+    "p3": 479760
+  },
+  {
+    "Cuentas": 51104001,
+    "Descripción": "   ASESORIA TRIBUTARIA",
+    "p1": 278008956,
+    "p2": 148998264,
+    "p3": 272000000
+  },
+  {
+    "Cuentas": 51104099,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 726750,
+    "p2": 80146,
+    "p3": 140032
+  },
+  {
+    "Cuentas": 51109501,
+    "Descripción": "   OTROS HONORARIOS",
+    "p1": 96750000,
+    "p2": 86000000,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51109599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 166592,
+    "p2": 132753,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55120,
+    "Descripción": "  ARRENDAMIENTOS                          ",
+    "p1": 16715610,
+    "p2": 49523432,
+    "p3": 13206622
+  },
+  {
+    "Cuentas": 51202001,
+    "Descripción": "   EQUIPO DE OFICINA",
+    "p1": 115606435,
+    "p2": 15892434,
+    "p3": 3666320
+  },
+  {
+    "Cuentas": 51202099,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO 19%",
+    "p1": 230240,
+    "p2": 101814,
+    "p3": 68975
+  },
+  {
+    "Cuentas": 51209501,
+    "Descripción": "   OTROS",
+    "p1": 30862429,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51209599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 36822,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55130,
+    "Descripción": "  SEGUROS                                 ",
+    "p1": 161524012,
+    "p2": 163466160,
+    "p3": 38209400
+  },
+  {
+    "Cuentas": 51306001,
+    "Descripción": "   RESPONSABILIDAD CIVIL Y EXTRACONTRACTUAL",
+    "p1": 780283800,
+    "p2": 27356098,
+    "p3": 146742852
+  },
+  {
+    "Cuentas": 51306099,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 1704290,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51309595,
+    "Descripción": "   OTROS SEGUROS",
+    "p1": 22365840,
+    "p2": 670704,
+    "p3": 54871260
+  },
+  {
+    "Cuentas": 51309599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 177669,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55135,
+    "Descripción": "  SERVICIOS                               ",
+    "p1": 1847561944,
+    "p2": 3803833990,
+    "p3": 6929247237
+  },
+  {
+    "Cuentas": 51350501,
+    "Descripción": "   ASEO Y VIGILANCIA",
+    "p1": 10150221380,
+    "p2": 1265344000,
+    "p3": 2324324646
+  },
+  {
+    "Cuentas": 51350502,
+    "Descripción": "   SERVICIO DE POLIGRAFO",
+    "p1": 135720000,
+    "p2": 113940000,
+    "p3": 290400000
+  },
+  {
+    "Cuentas": 51350503,
+    "Descripción": "   FUMIGACION",
+    "p1": 368940000,
+    "p2": 34780000,
+    "p3": 132468000
+  },
+  {
+    "Cuentas": 51350599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 1117872,
+    "p2": 511758,
+    "p3": 227340
+  },
+  {
+    "Cuentas": 51351001,
+    "Descripción": "   TEMPORALES",
+    "p1": 640987080,
+    "p2": 356680513,
+    "p3": 2276262800
+  },
+  {
+    "Cuentas": 51351099,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 12110,
+    "p2": 7568,
+    "p3": 41772
+  },
+  {
+    "Cuentas": 51352001,
+    "Descripción": "   PROCESAMIENTO ELECTRONICO DE DATOS",
+    "p1": 1982880000,
+    "p2": 391680000,
+    "p3": 472782909
+  },
+  {
+    "Cuentas": 51352099,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 486608,
+    "p2": 1128234,
+    "p3": 302478
+  },
+  {
+    "Cuentas": 51353001,
+    "Descripción": "   ENERGIA ELECTRICA",
+    "p1": 237847090,
+    "p2": 69001392,
+    "p3": 295832518
+  },
+  {
+    "Cuentas": 51353002,
+    "Descripción": "   ALUMBRADO PUBLICO",
+    "p1": 41042295,
+    "p2": 14726465,
+    "p3": 18057648
+  },
+  {
+    "Cuentas": 51353501,
+    "Descripción": "   TELEFONO",
+    "p1": 249019472,
+    "p2": 72120466,
+    "p3": 5469096
+  },
+  {
+    "Cuentas": 51353599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 119980,
+    "p2": 221260,
+    "p3": 42025
+  },
+  {
+    "Cuentas": 51354001,
+    "Descripción": "   CORREO, PORTES Y TELEGRAMAS",
+    "p1": 229202337,
+    "p2": 23039753,
+    "p3": 22237200
+  },
+  {
+    "Cuentas": 51355001,
+    "Descripción": "   TRANSPORTES, FLETES Y ACARREOS",
+    "p1": 126731889,
+    "p2": 0,
+    "p3": 676641200
+  },
+  {
+    "Cuentas": 51359595,
+    "Descripción": "   OTROS SERVICIOS",
+    "p1": 9435000,
+    "p2": 0,
+    "p3": 4682340
+  },
+  {
+    "Cuentas": 55140,
+    "Descripción": "  GASTOS LEGALES                          ",
+    "p1": 255745728,
+    "p2": 151825231,
+    "p3": 167786820
+  },
+  {
+    "Cuentas": 51400501,
+    "Descripción": "   NOTARIALES",
+    "p1": 8673882,
+    "p2": 7411092,
+    "p3": 13920000
+  },
+  {
+    "Cuentas": 51400599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 8125,
+    "p2": 4887,
+    "p3": 8112
+  },
+  {
+    "Cuentas": 51401001,
+    "Descripción": "   REGISTRO MERCANTIL",
+    "p1": 125779784,
+    "p2": 37357500,
+    "p3": 201482500
+  },
+  {
+    "Cuentas": 51401501,
+    "Descripción": "   TRAMITES Y LICENCIAS",
+    "p1": 56674716,
+    "p2": 6435600,
+    "p3": 3340325
+  },
+  {
+    "Cuentas": 51401599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 2510,
+    "p2": 16817,
+    "p3": 963378
+  },
+  {
+    "Cuentas": 51409501,
+    "Descripción": "   OTROS GASTOS LEGALES",
+    "p1": 5182144,
+    "p2": 5729526,
+    "p3": 2267086
+  },
+  {
+    "Cuentas": 51409599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 2325,
+    "p2": 3657,
+    "p3": 2156
+  },
+  {
+    "Cuentas": 55145,
+    "Descripción": "  MANTENTENIMIENTO Y REPARACIONES         ",
+    "p1": 1210202728,
+    "p2": 491579115,
+    "p3": 8668015
+  },
+  {
+    "Cuentas": 51451001,
+    "Descripción": "   CONSTRUCCIONES Y EDIFICACIONES",
+    "p1": 11605266,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51451501,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 99229254,
+    "p2": 519909796,
+    "p3": 105689149
+  },
+  {
+    "Cuentas": 51451599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 359016,
+    "p2": 4566,
+    "p3": 26838
+  },
+  {
+    "Cuentas": 51452001,
+    "Descripción": "   EQUIPO DE OFICINA",
+    "p1": 5535000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51452099,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 75,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51452501,
+    "Descripción": "   EQUIPO DE COMPUTACION Y COMUNICACION",
+    "p1": 232961344,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51452599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 21099,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55155,
+    "Descripción": "  GASTOS DE VIAJE                         ",
+    "p1": 1278313911,
+    "p2": 312844942.5,
+    "p3": 209550094
+  },
+  {
+    "Cuentas": 51550501,
+    "Descripción": "   ALOJAMIENTO Y MANUNTENCION",
+    "p1": 101121845.8,
+    "p2": 38356562.2,
+    "p3": 75816
+  },
+  {
+    "Cuentas": 51551501,
+    "Descripción": "   PASAJES AEREOS",
+    "p1": 547906188.72,
+    "p2": 597765743.64,
+    "p3": 203685883
+  },
+  {
+    "Cuentas": 51551599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 44437,
+    "p2": 1488,
+    "p3": 45528
+  },
+  {
+    "Cuentas": 51552001,
+    "Descripción": "   PASAJES TERRESTRES",
+    "p1": 1587317,
+    "p2": 1253145,
+    "p3": 120000
+  },
+  {
+    "Cuentas": 51559501,
+    "Descripción": "   OTROS",
+    "p1": 70303895.25,
+    "p2": 83427289.03,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55160,
+    "Descripción": "  DEPRECIACIONES",
+    "p1": 1841765782.22,
+    "p2": 3382411966.64,
+    "p3": 2434740454.08
+  },
+  {
+    "Cuentas": 51601001,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 13214966.6,
+    "p2": 21542361.75,
+    "p3": 43490372.4
+  },
+  {
+    "Cuentas": 51601501,
+    "Descripción": "   EQUIPO DE OFICINA",
+    "p1": 109647826.72,
+    "p2": 2209734,
+    "p3": 68633894.88
+  },
+  {
+    "Cuentas": 51602001,
+    "Descripción": "   EQUIPO DE COMPUTACION Y COMUNICACION",
+    "p1": 16978217.1,
+    "p2": 20952293.44,
+    "p3": 162916770.72
+  },
+  {
+    "Cuentas": 51607101,
+    "Descripción": "   MEJORAS AREA FUNDICION",
+    "p1": 450365312.88,
+    "p2": 19752864.6,
+    "p3": 75060885.48
+  },
+  {
+    "Cuentas": 51607102,
+    "Descripción": "   MEJORAS AREA EXTRUSION",
+    "p1": 396106129.53,
+    "p2": 68462787.12,
+    "p3": 32601328
+  },
+  {
+    "Cuentas": 51607103,
+    "Descripción": "   MEJORAS AREA ANODIZADO",
+    "p1": 2433967961.6,
+    "p2": 1659466926,
+    "p3": 1722441.5
+  },
+  {
+    "Cuentas": 51607104,
+    "Descripción": "   MEJORAS GENERALES EN PLANTA ALE",
+    "p1": 3703074825.66,
+    "p2": 1174534795,
+    "p3": 972865159.75
+  },
+  {
+    "Cuentas": 51607105,
+    "Descripción": "   MEJORAS EN HORNO REFRACTARIO",
+    "p1": 94559639.7,
+    "p2": 321502774.98,
+    "p3": 502238164.77
+  },
+  {
+    "Cuentas": 51607106,
+    "Descripción": "   MEJORAS EN EQUIPO EMBOLO",
+    "p1": 88171942.3,
+    "p2": 38357285.12,
+    "p3": 4483319.22
+  },
+  {
+    "Cuentas": 55165,
+    "Descripción": "  AMORTIZACIONES                          ",
+    "p1": 367355856,
+    "p2": 59418568,
+    "p3": 36783432
+  },
+  {
+    "Cuentas": 51651501,
+    "Descripción": "   LICENCIAS DE SOFTWARE",
+    "p1": 734711712,
+    "p2": 49084904,
+    "p3": 173699540
+  },
+  {
+    "Cuentas": 55195,
+    "Descripción": "  DIVERSOS                                ",
+    "p1": 6934694848.7,
+    "p2": 708544552.25,
+    "p3": 130187083.5
+  },
+  {
+    "Cuentas": 51951501,
+    "Descripción": "   PEAJES",
+    "p1": 13088000,
+    "p2": 490800,
+    "p3": 798000
+  },
+  {
+    "Cuentas": 51952501,
+    "Descripción": "   ELEMENTOS DE ASEO Y CAFETERIA",
+    "p1": 485314398.14,
+    "p2": 3168135.51,
+    "p3": 277019689.5
+  },
+  {
+    "Cuentas": 51952599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 5848,
+    "p2": 124,
+    "p3": 3115
+  },
+  {
+    "Cuentas": 51953001,
+    "Descripción": "   UTILES, PAPELERIA Y FOTOCOPIAS",
+    "p1": 470950470,
+    "p2": 103757272,
+    "p3": 30239184
+  },
+  {
+    "Cuentas": 51953099,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 288722,
+    "p2": 15612,
+    "p3": 176710
+  },
+  {
+    "Cuentas": 51953501,
+    "Descripción": "   COMBUSTIBLES Y LUBRICANTES",
+    "p1": 8697612,
+    "p2": 18637740,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51954501,
+    "Descripción": "   TAXIS Y BUSES",
+    "p1": 1726930000,
+    "p2": 877590000,
+    "p3": 158460000
+  },
+  {
+    "Cuentas": 51956001,
+    "Descripción": "   CASINO Y RESTAURANTE",
+    "p1": 838040760,
+    "p2": 359714743,
+    "p3": 565721187
+  },
+  {
+    "Cuentas": 51956501,
+    "Descripción": "   SERVICIO DE PARQUEADERO",
+    "p1": 493500,
+    "p2": 357000,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51959501,
+    "Descripción": "   OTROS",
+    "p1": 150909014,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 51959502,
+    "Descripción": "   OTROS INSUMOS",
+    "p1": 26464300.28,
+    "p2": 133156825.62,
+    "p3": 855907809.75
+  },
+  {
+    "Cuentas": 51959503,
+    "Descripción": "   ATENCION A PROVEEDORES",
+    "p1": 99817480,
+    "p2": 0,
+    "p3": 72900000
+  },
+  {
+    "Cuentas": 51959599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 114408,
+    "p2": 0,
+    "p3": 180
+  },
+  {
+    "Cuentas": 552,
+    "Descripción": " GASTOS DE VENTAS",
+    "p1": 63319140578.82,
+    "p2": 19996715194.48,
+    "p3": 26598933988.32
+  },
+  {
+    "Cuentas": 55205,
+    "Descripción": "  GASTOS DE PERSONAL",
+    "p1": 29553558262.26,
+    "p2": 1287738420,
+    "p3": 267068310
+  },
+  {
+    "Cuentas": 52050601,
+    "Descripción": "   SUELDOS",
+    "p1": 13834986880,
+    "p2": 2609572140,
+    "p3": 7240223961
+  },
+  {
+    "Cuentas": 52052401,
+    "Descripción": "   INCAPACIDADES",
+    "p1": 40894000,
+    "p2": 5600000,
+    "p3": 8389920
+  },
+  {
+    "Cuentas": 52052701,
+    "Descripción": "   AUXILIO DE TRANSPORTE",
+    "p1": 77906800,
+    "p2": 36010130,
+    "p3": 31071480
+  },
+  {
+    "Cuentas": 52053001,
+    "Descripción": "   CESANTIAS",
+    "p1": 156971624,
+    "p2": 105649696,
+    "p3": 631121463
+  },
+  {
+    "Cuentas": 52053301,
+    "Descripción": "   INTERESES DE CESANTIAS",
+    "p1": 98278698,
+    "p2": 13867461,
+    "p3": 23063015
+  },
+  {
+    "Cuentas": 52053601,
+    "Descripción": "   PRIMA DE SERVICIOS",
+    "p1": 1089263897,
+    "p2": 270727346,
+    "p3": 613285690
+  },
+  {
+    "Cuentas": 52053901,
+    "Descripción": "   VACACIONES",
+    "p1": 784179550,
+    "p2": 198818276,
+    "p3": 100558417
+  },
+  {
+    "Cuentas": 52055201,
+    "Descripción": "   DOTACION Y SUMINISTRO A TRABAJADORES",
+    "p1": 5958494.46,
+    "p2": 13491603,
+    "p3": 12587124
+  },
+  {
+    "Cuentas": 52055299,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 4158,
+    "p2": 4928,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52056001,
+    "Descripción": "   INDEMNIZACIONES LABORALES",
+    "p1": 1812148184,
+    "p2": 0,
+    "p3": 52264905
+  },
+  {
+    "Cuentas": 52056801,
+    "Descripción": "   APORTES A LA ARL",
+    "p1": 228494000,
+    "p2": 285421500,
+    "p3": 82677600
+  },
+  {
+    "Cuentas": 52056901,
+    "Descripción": "   APORTES A LA EPS",
+    "p1": -989807,
+    "p2": 31046,
+    "p3": 2535891
+  },
+  {
+    "Cuentas": 52057001,
+    "Descripción": "   APORTES A FONDOS DE PENSION",
+    "p1": 1428247050,
+    "p2": 461027133,
+    "p3": 542986199
+  },
+  {
+    "Cuentas": 52057201,
+    "Descripción": "   APORTES A CAJAS DE COMPENSACION FAMILIAR",
+    "p1": 73827200,
+    "p2": 230058600,
+    "p3": 7325400
+  },
+  {
+    "Cuentas": 55210,
+    "Descripción": "  HONORARIOS",
+    "p1": 2187376530,
+    "p2": 1047158781,
+    "p3": 341380866
+  },
+  {
+    "Cuentas": 52104501,
+    "Descripción": "   ASESORIA MERCADEO Y VENTAS",
+    "p1": 2260027999,
+    "p2": 329207396,
+    "p3": 229549203
+  },
+  {
+    "Cuentas": 52104599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 84220,
+    "p2": 421100,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55215,
+    "Descripción": "  IMPUESTOS",
+    "p1": 1731385929,
+    "p2": 1647487604,
+    "p3": 899423552
+  },
+  {
+    "Cuentas": 52150501,
+    "Descripción": "   INDUSTRIA Y COMERCIO",
+    "p1": 4468092720,
+    "p2": 1870121064,
+    "p3": 3653908180
+  },
+  {
+    "Cuentas": 55230,
+    "Descripción": "  SEGUROS",
+    "p1": 10138629076,
+    "p2": 2673847800,
+    "p3": 1743166456
+  },
+  {
+    "Cuentas": 52301001,
+    "Descripción": "   CUMPLIMIENTO",
+    "p1": 16446528,
+    "p2": 2055816,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52306501,
+    "Descripción": "   SEGURO DE VIAJE",
+    "p1": 305000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52308501,
+    "Descripción": "   SEGURO TRANSPORTE DE MERCANCIA",
+    "p1": 1223486352,
+    "p2": 466268400,
+    "p3": 654884136
+  },
+  {
+    "Cuentas": 52308599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 2215708,
+    "p2": 239536,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52309501,
+    "Descripción": "   SEGURO DE RIESGO COMERCIAL",
+    "p1": 5382031105,
+    "p2": 2453234696,
+    "p3": 2146660104
+  },
+  {
+    "Cuentas": 52309599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 2927612,
+    "p2": 1974436,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55235,
+    "Descripción": "  SERVICIOS",
+    "p1": 26183911176,
+    "p2": 5271994750,
+    "p3": 15354339588
+  },
+  {
+    "Cuentas": 52353501,
+    "Descripción": "   TELEFONO",
+    "p1": 139910164,
+    "p2": 98027982,
+    "p3": 55333208
+  },
+  {
+    "Cuentas": 52353599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 20996,
+    "p2": 9050,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52354001,
+    "Descripción": "   CORREO, PORTES Y TELEGRAMAS",
+    "p1": 253639197,
+    "p2": 555469376,
+    "p3": 23894346
+  },
+  {
+    "Cuentas": 52355001,
+    "Descripción": "   TRANSPORTES, FLETES Y ACARREOS",
+    "p1": 7947976357,
+    "p2": 8685785034,
+    "p3": 8348969973
+  },
+  {
+    "Cuentas": 52355002,
+    "Descripción": "   FLETE INTERNACIONAL",
+    "p1": 8075391688,
+    "p2": 1132478802,
+    "p3": 487307640
+  },
+  {
+    "Cuentas": 52356001,
+    "Descripción": "   PUBLICIDAD, PROPAGANDA Y PROMOCION",
+    "p1": 27426000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52356501,
+    "Descripción": "   SERVICIO DE AGENCIAMIENTO",
+    "p1": 3164123217,
+    "p2": 496560475,
+    "p3": 3150725515
+  },
+  {
+    "Cuentas": 52356502,
+    "Descripción": "   GASTOS PORTUARIOS",
+    "p1": 1363464660,
+    "p2": 228480147,
+    "p3": 2056472304
+  },
+  {
+    "Cuentas": 52356599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 530845,
+    "p2": 567455,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52359501,
+    "Descripción": "   SERVICIOS VARIOS",
+    "p1": 35540070,
+    "p2": 7235200,
+    "p3": 19508450
+  },
+  {
+    "Cuentas": 52359599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 2450,
+    "p2": 5390,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55240,
+    "Descripción": "  GASTOS LEGALES",
+    "p1": 15173569,
+    "p2": 99197966,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52402001,
+    "Descripción": "   ADUANEROS",
+    "p1": 210288000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52409501,
+    "Descripción": "   OTROS GASTOS LEGALES",
+    "p1": 438774000,
+    "p2": 92001000,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52409599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 514140,
+    "p2": 719796,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55245,
+    "Descripción": "  MANTENIMIENTO Y REPARACIONES",
+    "p1": 152876680,
+    "p2": 30693870,
+    "p3": 45772692
+  },
+  {
+    "Cuentas": 52454001,
+    "Descripción": "   FLOTA Y EQUIPO DE TRANSPORTE",
+    "p1": 163282747,
+    "p2": 5113800,
+    "p3": 145916550
+  },
+  {
+    "Cuentas": 52454099,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 18450,
+    "p2": 9225,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55255,
+    "Descripción": "  GASTOS DE VIAJE",
+    "p1": 1018304160,
+    "p2": 73577105,
+    "p3": 89160522.36
+  },
+  {
+    "Cuentas": 52550501,
+    "Descripción": "   ALOJAMIENTO Y MANUNTENCION",
+    "p1": 376564510,
+    "p2": 23895971,
+    "p3": 830484352.05
+  },
+  {
+    "Cuentas": 52550599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 111,
+    "p2": 201,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52551501,
+    "Descripción": "   PASAJES AEREOS",
+    "p1": 230977787,
+    "p2": 22331200,
+    "p3": 777239416.85
+  },
+  {
+    "Cuentas": 52551599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 2736,
+    "p2": 1440,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52552001,
+    "Descripción": "   PASAJES TERRESTRES",
+    "p1": 68626800,
+    "p2": 18729200,
+    "p3": 2735000
+  },
+  {
+    "Cuentas": 52559501,
+    "Descripción": "   OTROS",
+    "p1": 155572560,
+    "p2": 173125,
+    "p3": 10311569.85
+  },
+  {
+    "Cuentas": 52559599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 328,
+    "p2": 136,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55260,
+    "Descripción": "  DEPRECIACIONES",
+    "p1": 55372996.08,
+    "p2": 46109117.6,
+    "p3": 239522451
+  },
+  {
+    "Cuentas": 52601001,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 131834142.55,
+    "p2": 54049362,
+    "p3": 22785307.23
+  },
+  {
+    "Cuentas": 52601501,
+    "Descripción": "   EQUIPO DE OFICINA",
+    "p1": 41501250,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52602001,
+    "Descripción": "   EQUIPO DE COMPUTACION Y COMUNICACION",
+    "p1": 36202587.89,
+    "p2": 47543931.6,
+    "p3": 66095671.32
+  },
+  {
+    "Cuentas": 55265,
+    "Descripción": "  AMORTIZACIONES",
+    "p1": 11508120,
+    "p2": 3378837,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52651501,
+    "Descripción": "   LICENCIAS DE SOFTWARE",
+    "p1": 34140756,
+    "p2": 3510480,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55295,
+    "Descripción": "  GASTOS DIVERSOS",
+    "p1": 131552911,
+    "p2": 357092597,
+    "p3": 377964444
+  },
+  {
+    "Cuentas": 52951501,
+    "Descripción": "   PEAJES",
+    "p1": 15401000,
+    "p2": 34092400,
+    "p3": 42552000
+  },
+  {
+    "Cuentas": 52952501,
+    "Descripción": "   ELEMENTOS DE ASEO Y CAFETERIA",
+    "p1": 494000,
+    "p2": 0,
+    "p3": 10415070
+  },
+  {
+    "Cuentas": 52953001,
+    "Descripción": "   UTILES, PAPELERIA Y FOTOCOPIAS",
+    "p1": 18637860,
+    "p2": 13528504,
+    "p3": 23005344
+  },
+  {
+    "Cuentas": 52953099,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 3680,
+    "p2": 6555,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52953501,
+    "Descripción": "   COMBUSTIBLES Y LUBRICANTES",
+    "p1": 379240529,
+    "p2": 32504536,
+    "p3": 89725369
+  },
+  {
+    "Cuentas": 52954501,
+    "Descripción": "   TAXIS Y BUSES",
+    "p1": 16509472,
+    "p2": 92773200,
+    "p3": 45733402
+  },
+  {
+    "Cuentas": 52956001,
+    "Descripción": "   CASINO Y RESTAURANTE",
+    "p1": 7212300,
+    "p2": 22066476,
+    "p3": 136026800
+  },
+  {
+    "Cuentas": 52956501,
+    "Descripción": "   PARQUEADEROS",
+    "p1": 2955920,
+    "p2": 10423205,
+    "p3": 5663882
+  },
+  {
+    "Cuentas": 52956599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 962,
+    "p2": 1295,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52958001,
+    "Descripción": "   ATENCION A CLIENTES",
+    "p1": 56500920,
+    "p2": 0,
+    "p3": 1900800
+  },
+  {
+    "Cuentas": 52959501,
+    "Descripción": "   OTROS",
+    "p1": 2865870,
+    "p2": 11463480,
+    "p3": 493816
+  },
+  {
+    "Cuentas": 52959599,
+    "Descripción": "   IVA MAYOR DEL GASTO",
+    "p1": 1508,
+    "p2": 1170,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55299,
+    "Descripción": "  DETERIORO",
+    "p1": 2586270.55,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52991001,
+    "Descripción": "   DE CARTERA",
+    "p1": 2586270.55,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 553,
+    "Descripción": " GASTOS FINANCIEROS                      ",
+    "p1": 68565562290.54,
+    "p2": 25716588221.8,
+    "p3": 67469063642.91
+  },
+  {
+    "Cuentas": 55305,
+    "Descripción": "  GASTOS BANCARIOS",
+    "p1": 99583316660.07,
+    "p2": 14631851919.3,
+    "p3": 59782714620.3
+  },
+  {
+    "Cuentas": 53050501,
+    "Descripción": "   GASTOS BANCARIOS",
+    "p1": 1268192994.03,
+    "p2": 257001099.75,
+    "p3": 534377737.36
+  },
+  {
+    "Cuentas": 53051501,
+    "Descripción": "   COMISIONES BANCARIAS",
+    "p1": 1268067284,
+    "p2": 878291970,
+    "p3": 1062240398.3
+  },
+  {
+    "Cuentas": 53051599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 641852,
+    "p2": 468785,
+    "p3": 1918367
+  },
+  {
+    "Cuentas": 53052001,
+    "Descripción": "   INTERESES BANCARIOS CORRRIENTES",
+    "p1": 26793210953.52,
+    "p2": 209330436.21,
+    "p3": 17161666661.6
+  },
+  {
+    "Cuentas": 53052002,
+    "Descripción": "   INTERESES DE PARTICULARES",
+    "p1": 1746038868,
+    "p2": 1104906847,
+    "p3": 1296290025
+  },
+  {
+    "Cuentas": 53052003,
+    "Descripción": "   INTERESES DE MORA",
+    "p1": 50024631,
+    "p2": 30288368.65,
+    "p3": 3670165.07
+  },
+  {
+    "Cuentas": 53052099,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 16000,
+    "p2": 45600,
+    "p3": 0
+  },
+  {
+    "Cuentas": 53052501,
+    "Descripción": "   MONEDA EXTRANJERA",
+    "p1": 14270884204.2,
+    "p2": 10671058218.19,
+    "p3": 34425488120.32
+  },
+  {
+    "Cuentas": 53052502,
+    "Descripción": "   MONEDA EXTRANJERA REALIZADA",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 53059501,
+    "Descripción": "   GMF 4*1000",
+    "p1": 5341868863.33,
+    "p2": 2604804791.04,
+    "p3": 6103667956.32
+  },
+  {
+    "Cuentas": 554,
+    "Descripción": " GASTOS POR IMPUESTOS                    ",
+    "p1": -28055077,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55405,
+    "Descripción": "  IMPUESTO DE RENTA Y COMPLEMENTARIOS     ",
+    "p1": -125509555,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 54050501,
+    "Descripción": "   IMPUESTO DE RENTA",
+    "p1": 3106279000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 54051005,
+    "Descripción": "   GASTO DE IMPUESTO DIFERIDO",
+    "p1": -21573784308,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 555,
+    "Descripción": " OTROS GASTOS                            ",
+    "p1": 1841714953.26,
+    "p2": 1138442597.12,
+    "p3": 1060576326.6
+  },
+  {
+    "Cuentas": 55510,
+    "Descripción": "  PERDIDA EN VENTA Y RETIRO  DE BIENES",
+    "p1": 755240810,
+    "p2": 86917824,
+    "p3": 0
+  },
+  {
+    "Cuentas": 53100501,
+    "Descripción": "   PERDIDA EN VENTA DE TIDIS",
+    "p1": 735872013,
+    "p2": 54323640,
+    "p3": 0
+  },
+  {
+    "Cuentas": 53109502,
+    "Descripción": "   CARTERA",
+    "p1": 4695757,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55515,
+    "Descripción": "  GASTOS EXTRAORDINARIOS                  ",
+    "p1": 1707590078,
+    "p2": 1122731978,
+    "p3": 774367330
+  },
+  {
+    "Cuentas": 53151501,
+    "Descripción": "   COSTOS Y GASTOS DE EJERCICIOS ANTERIORES",
+    "p1": 1112269914,
+    "p2": 182770322,
+    "p3": 183748180
+  },
+  {
+    "Cuentas": 53152001,
+    "Descripción": "   IMPUESTO ASUMIDO IVA",
+    "p1": 62304,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 53152002,
+    "Descripción": "   IMPUESTO ASUMIDO RETENCION",
+    "p1": 1641950899,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55595,
+    "Descripción": "  DIVERSOS                                ",
+    "p1": 391308740.73,
+    "p2": 248400139.3,
+    "p3": 897394100.2
+  },
+  {
+    "Cuentas": 53952001,
+    "Descripción": "   SANCIONES",
+    "p1": 41478000,
+    "p2": 50090908,
+    "p3": 703107350
+  },
+  {
+    "Cuentas": 53959501,
+    "Descripción": "   AJUSTE AL PESO",
+    "p1": 14489692.56,
+    "p2": 1933522.2,
+    "p3": 4982234.04
+  },
+  {
+    "Cuentas": 53959595,
+    "Descripción": "   OTROS EGRESOS",
+    "p1": 67885524.35,
+    "p2": 32835007,
+    "p3": 11473312.84
+  },
+  {
+    "Cuentas": 556,
+    "Descripción": " COSTOS",
+    "p1": 2693062944904.8,
+    "p2": 480814861950.08,
+    "p3": 51064242649.44
+  },
+  {
+    "Cuentas": 55661,
+    "Descripción": "  COSTO DE VENTA Y DE PRESTACION DE SERVIC",
+    "p1": 2188113642735.15,
+    "p2": 698542346606.72,
+    "p3": 119149899515.36
+  },
+  {
+    "Cuentas": 61205901,
+    "Descripción": "   FUNDICION DE METALES NO FERROSOS",
+    "p1": 865032012186.3,
+    "p2": 318410665783.92,
+    "p3": 362747109705.57
+  },
+  {
+    "Cuentas": 61205902,
+    "Descripción": "   EXPORTACION DE PERFILES DE ALUMINIO",
+    "p1": 1044836309417.6,
+    "p2": 268575355056.3,
+    "p3": 732786416394.24
+  },
+  {
+    "Cuentas": 61205904,
+    "Descripción": "   COSTOS NO ABSORBIDOS EN COMPRAS",
+    "p1": -2005533360,
+    "p2": -1589566212,
+    "p3": 117565020
+  },
+  {
+    "Cuentas": 61205905,
+    "Descripción": "   COSTOS NO ABSORBIDOS EN IMPORTACIONES",
+    "p1": 190397810.46,
+    "p2": 107933211.1,
+    "p3": 27901466.46
+  },
+  {
+    "Cuentas": 61205906,
+    "Descripción": "   COSTOS NO ABSORBIDOS EN PRODUCCION",
+    "p1": 8032050988.15,
+    "p2": 2999448726.4,
+    "p3": 13069418310.9
+  },
+  {
+    "Cuentas": 61205908,
+    "Descripción": "   COSTO MATERIAL PNC",
+    "p1": 3344700965.55,
+    "p2": 1258471175,
+    "p3": 40829119255.54
+  },
+  {
+    "Cuentas": 61205909,
+    "Descripción": "   COSTO FLETES Y SEGUROS DE EXPORTACIONES",
+    "p1": 1070609536,
+    "p2": 0,
+    "p3": 25389598122
+  },
+  {
+    "Cuentas": 61351601,
+    "Descripción": "   COSTO DE OTROS INSUMOS Y MATERIAS PRIMAS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 61351602,
+    "Descripción": "   COSTO CHATARRA DE ALUMINIO",
+    "p1": 306826017.45,
+    "p2": 792916427.26,
+    "p3": 1233985753.44
+  },
+  {
+    "Cuentas": 61351603,
+    "Descripción": "   COSTO DE MATRICES",
+    "p1": 381256965,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 61351604,
+    "Descripción": "   CTO DE VTA ALUMINIO PRIMARIO Y ALEANTES",
+    "p1": 424371289.11,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 61351606,
+    "Descripción": "   COSTO LAMINAS DE ALUMINIO",
+    "p1": 222490631113.8,
+    "p2": 42867191111.7,
+    "p3": 103986512201.64
+  },
+  {
+    "Cuentas": 61351608,
+    "Descripción": "   COSTO COMERCIALIZACION DE PERFILES",
+    "p1": 132358964237.46,
+    "p2": 55613227188.8,
+    "p3": 36935584247.65
+  },
+  {
+    "Cuentas": 61351609,
+    "Descripción": "   COSTOS NO ABSORBIDOS EN LAMINAS",
+    "p1": 10209535.2,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 61351690,
+    "Descripción": "   COSTOS NO ABSORBIDOS EN IMPO DE PERFILES",
+    "p1": -54470372.23,
+    "p2": 0,
+    "p3": -10259782.8
+  },
+  {
+    "Cuentas": 61351695,
+    "Descripción": "   COSTOS NO ABSORBIDOS EN IMPO. DE LAMINAS",
+    "p1": -14622615.34,
+    "p2": -718336.8,
+    "p3": 122172002.16
+  },
+  {
+    "Cuentas": 557,
+    "Descripción": " COSTOS DE PRODUCCION",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 55771,
+    "Descripción": "  MATERIA PRIMA                           ",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 71010520,
+    "Descripción": "   PINTURA",
+    "p1": 49443410762.26,
+    "p2": 4673736674.06,
+    "p3": 17489673065.6
+  },
+  {
+    "Cuentas": 71010540,
+    "Descripción": "   QUIMICOS",
+    "p1": 23789891388.6,
+    "p2": 4441035776.92,
+    "p3": 11147119150.2
+  },
+  {
+    "Cuentas": 71010555,
+    "Descripción": "   ALUMINIOS Y ALEANTES",
+    "p1": 585099843310.95,
+    "p2": 271432198725.9,
+    "p3": 156547931584.35
+  },
+  {
+    "Cuentas": 71010560,
+    "Descripción": "   CHATARRA ALUMINIO",
+    "p1": 2646691374885.52,
+    "p2": 69443869131.52,
+    "p3": 1210750727458.98
+  },
+  {
+    "Cuentas": 71019901,
+    "Descripción": "   TRASLADO A INVENTARIO EN PROCESO",
+    "p1": -131328657199.14,
+    "p2": -59881805732.65,
+    "p3": -871435694509.34
+  },
+  {
+    "Cuentas": 71019904,
+    "Descripción": "   TRASLADO SUBPRODUCTO A INV MATERIA PRIMA",
+    "p1": -119439636725.22,
+    "p2": -82595782780,
+    "p3": -180472692389.44
+  },
+  {
+    "Cuentas": 55772,
+    "Descripción": "  MANO DE OBRA DIRECTA                    ",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 72050601,
+    "Descripción": "   SUELDOS",
+    "p1": 29023568946,
+    "p2": 7435312290,
+    "p3": 1597908465
+  },
+  {
+    "Cuentas": 72051501,
+    "Descripción": "   HORAS EXTRAS Y RECARGOS",
+    "p1": 8152639680,
+    "p2": 57211774,
+    "p3": 1457908153
+  },
+  {
+    "Cuentas": 72052401,
+    "Descripción": "   INCAPACIDADES",
+    "p1": 85698510,
+    "p2": 4408396,
+    "p3": 40203652
+  },
+  {
+    "Cuentas": 72052701,
+    "Descripción": "   AUXILIO DE TRANSPORTE",
+    "p1": 3167504320,
+    "p2": 109718680,
+    "p3": 153721832
+  },
+  {
+    "Cuentas": 72053001,
+    "Descripción": "   CESANTIAS",
+    "p1": 802506474,
+    "p2": 360249253,
+    "p3": 1422068388
+  },
+  {
+    "Cuentas": 72053301,
+    "Descripción": "   INTERESES SOBRE CESANTIAS",
+    "p1": 183132970,
+    "p2": 54025106,
+    "p3": 3576045
+  },
+  {
+    "Cuentas": 72053601,
+    "Descripción": "   PRIMA DE SERVICIOS",
+    "p1": 4789111055,
+    "p2": 94332530,
+    "p3": 1309733992
+  },
+  {
+    "Cuentas": 72053901,
+    "Descripción": "   VACACIONES",
+    "p1": 1764065088,
+    "p2": 349973988,
+    "p3": 324676989
+  },
+  {
+    "Cuentas": 72054501,
+    "Descripción": "   AUXILIOS",
+    "p1": 460718000,
+    "p2": 1256342500,
+    "p3": 1126305000
+  },
+  {
+    "Cuentas": 72055101,
+    "Descripción": "   DOTACION Y SUMINISTRO A TRABAJADORES",
+    "p1": 1434955591.88,
+    "p2": 345814862.4,
+    "p3": 673283409.5
+  },
+  {
+    "Cuentas": 72056001,
+    "Descripción": "   INDEMNIZACION LABORAL",
+    "p1": 12493216,
+    "p2": 272839525,
+    "p3": 115988184
+  },
+  {
+    "Cuentas": 72056801,
+    "Descripción": "   APORTES A LA ARL",
+    "p1": 1585476711,
+    "p2": 67473245,
+    "p3": 597323800
+  },
+  {
+    "Cuentas": 72056901,
+    "Descripción": "   APORTES A LA EPS",
+    "p1": -385320,
+    "p2": -947118,
+    "p3": 6159648
+  },
+  {
+    "Cuentas": 72057001,
+    "Descripción": "   APORTES A FONDO DE PENSION",
+    "p1": 7510285737,
+    "p2": 1135610070,
+    "p3": 2428919640
+  },
+  {
+    "Cuentas": 72057201,
+    "Descripción": "   APORTES A CAJA DE COMPENSACION FAMILIAR",
+    "p1": 1726835950,
+    "p2": 305367845,
+    "p3": 228459000
+  },
+  {
+    "Cuentas": 72059901,
+    "Descripción": "   TRASLADO A INVENTARIO EN PROCESO",
+    "p1": -86334360562.48,
+    "p2": -21792200177.16,
+    "p3": -19686164640.45
+  },
+  {
+    "Cuentas": 55773,
+    "Descripción": "  COSTOS INDIRECTOS                       ",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73050601,
+    "Descripción": "   SUELDOS",
+    "p1": 23946122226,
+    "p2": 8310164292,
+    "p3": 2738946336
+  },
+  {
+    "Cuentas": 73051501,
+    "Descripción": "   HORAS EXTRAS Y RECARGOS",
+    "p1": 878913567,
+    "p2": 378979308,
+    "p3": 149161077
+  },
+  {
+    "Cuentas": 73052401,
+    "Descripción": "   INCAPACIDADES",
+    "p1": 23960360,
+    "p2": 2843200,
+    "p3": 9051010
+  },
+  {
+    "Cuentas": 73052701,
+    "Descripción": "   AUXILIO DE TRANSPORTE",
+    "p1": 119214333,
+    "p2": 45349470,
+    "p3": 33956442
+  },
+  {
+    "Cuentas": 73053001,
+    "Descripción": "   CESANTIAS",
+    "p1": 1018193636,
+    "p2": 634874574,
+    "p3": 538722618
+  },
+  {
+    "Cuentas": 73053301,
+    "Descripción": "   INTERESES DE CESANTIAS",
+    "p1": 49271432,
+    "p2": 25542103,
+    "p3": 25064235
+  },
+  {
+    "Cuentas": 73053601,
+    "Descripción": "   PRIMA DE SERVICIOS",
+    "p1": 3005985330,
+    "p2": 75502994,
+    "p3": 816144463
+  },
+  {
+    "Cuentas": 73053901,
+    "Descripción": "   VACACIONES",
+    "p1": 1369435704,
+    "p2": 449302442,
+    "p3": 198425400
+  },
+  {
+    "Cuentas": 73054501,
+    "Descripción": "   AUXILIOS",
+    "p1": 134528300,
+    "p2": 49568750,
+    "p3": 3090000
+  },
+  {
+    "Cuentas": 73055101,
+    "Descripción": "   DOTACION A TRABAJADORES",
+    "p1": 1794000,
+    "p2": 2001000,
+    "p3": 3984096.24
+  },
+  {
+    "Cuentas": 73056001,
+    "Descripción": "   INDEMNIZACION LABORAL",
+    "p1": 203407380,
+    "p2": 630562878,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73056301,
+    "Descripción": "   CAPACITACION AL PERSONAL",
+    "p1": 105020000,
+    "p2": 15750000,
+    "p3": 14960000
+  },
+  {
+    "Cuentas": 73056801,
+    "Descripción": "   APORTES A LA ARL",
+    "p1": 1078962493,
+    "p2": 685377531,
+    "p3": 66390000
+  },
+  {
+    "Cuentas": 73056901,
+    "Descripción": "   APORTES A LA EPS",
+    "p1": 101583810,
+    "p2": 11732625,
+    "p3": 18480541
+  },
+  {
+    "Cuentas": 73057001,
+    "Descripción": "   APORTES A FONDO DE PENSIONES",
+    "p1": 2754409472,
+    "p2": 747772688,
+    "p3": 35521212
+  },
+  {
+    "Cuentas": 73057301,
+    "Descripción": "   APORTES A CAJA DE COMPENSACION FAMILIAR",
+    "p1": 651354660,
+    "p2": 435358350,
+    "p3": 224108500
+  },
+  {
+    "Cuentas": 73103501,
+    "Descripción": "   ASESORIA TECNICA",
+    "p1": 736625160,
+    "p2": 419566392,
+    "p3": 49974000
+  },
+  {
+    "Cuentas": 73201001,
+    "Descripción": "   CONSTRUCCIONES Y EDIFICACIONES",
+    "p1": 26083555434,
+    "p2": 4481895060,
+    "p3": 576339852
+  },
+  {
+    "Cuentas": 73201501,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 2621412900,
+    "p2": 1765648850,
+    "p3": 3129775380
+  },
+  {
+    "Cuentas": 73209501,
+    "Descripción": "   OTROS",
+    "p1": 32044235,
+    "p2": 30927120,
+    "p3": 61211304
+  },
+  {
+    "Cuentas": 73350501,
+    "Descripción": "   ASEO Y VIGILANCIA",
+    "p1": 61751840,
+    "p2": 97914960,
+    "p3": 50282400
+  },
+  {
+    "Cuentas": 73351001,
+    "Descripción": "   TEMPORALES - PLANTA",
+    "p1": 7523230560,
+    "p2": 25841977228,
+    "p3": 43808956072
+  },
+  {
+    "Cuentas": 73351501,
+    "Descripción": "   ASISTENCIA TECNICA",
+    "p1": 31320000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73353001,
+    "Descripción": "   ENERGIA ELECTRICA",
+    "p1": 52849484650,
+    "p2": 9150763300,
+    "p3": 24980694680
+  },
+  {
+    "Cuentas": 73353002,
+    "Descripción": "   ALUMBRADO PUBLICO",
+    "p1": 3212528710,
+    "p2": 1054950240,
+    "p3": 967244725
+  },
+  {
+    "Cuentas": 73353501,
+    "Descripción": "   TELEFONO",
+    "p1": 18220696,
+    "p2": 5952840,
+    "p3": 16059060
+  },
+  {
+    "Cuentas": 73354001,
+    "Descripción": "   CORREO, PORTES Y TELEGRAMAS",
+    "p1": 17546320,
+    "p2": 54450,
+    "p3": 1291680
+  },
+  {
+    "Cuentas": 73355001,
+    "Descripción": "   FLETES DE MATERIA PRIMA",
+    "p1": 1009600000,
+    "p2": 463600000,
+    "p3": 28828800
+  },
+  {
+    "Cuentas": 73355003,
+    "Descripción": "   OTROS FLETES",
+    "p1": 968093168,
+    "p2": 244305600,
+    "p3": 498672000
+  },
+  {
+    "Cuentas": 73359501,
+    "Descripción": "   SERVICIOS EXTERNOS ANODIZADO",
+    "p1": 1912516,
+    "p2": 33469030,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73359595,
+    "Descripción": "   OTROS SERVICIOS",
+    "p1": 112995600,
+    "p2": 22400000,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73451001,
+    "Descripción": "   CONSTRUCCIONES Y EDIFICACIONES",
+    "p1": 298683000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73451501,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 8298752922,
+    "p2": 12338262384,
+    "p3": 5778493687
+  },
+  {
+    "Cuentas": 73452501,
+    "Descripción": "   EQUIPO DE COMPUTACION Y COMUNICACION",
+    "p1": 2520000,
+    "p2": 0,
+    "p3": 307398399
+  },
+  {
+    "Cuentas": 73550501,
+    "Descripción": "   ALOJAMIENTO Y MANUTENCION",
+    "p1": 18758688,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73552001,
+    "Descripción": "   PASAJES TERRESTRES",
+    "p1": 12328000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73601001,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 31502001007.36,
+    "p2": 1042562021.45,
+    "p3": 5448865599.2
+  },
+  {
+    "Cuentas": 73601501,
+    "Descripción": "   EQUIPO DE OFICINA",
+    "p1": 27153577.2,
+    "p2": 40277806.18,
+    "p3": 108002776.47
+  },
+  {
+    "Cuentas": 73602001,
+    "Descripción": "   EQ DE COMPUTACION Y COMUNICACION",
+    "p1": 163839337.76,
+    "p2": 83563630,
+    "p3": 241995737.56
+  },
+  {
+    "Cuentas": 73607101,
+    "Descripción": "   MEJORAS FUNDICION",
+    "p1": 5247239260.8,
+    "p2": 535330685.25,
+    "p3": 1531126784.95
+  },
+  {
+    "Cuentas": 73607102,
+    "Descripción": "   MEJORAS EXTRUSION",
+    "p1": 7648025810.4,
+    "p2": 823440431.4,
+    "p3": 555275195.54
+  },
+  {
+    "Cuentas": 73607103,
+    "Descripción": "   MEJORAS ANODIZADO",
+    "p1": 26184342.76,
+    "p2": 0,
+    "p3": 19914852.24
+  },
+  {
+    "Cuentas": 73607104,
+    "Descripción": "   MEJORAS PLANTA ALE",
+    "p1": 244942811.4,
+    "p2": 7557608.42,
+    "p3": 16936672.72
+  },
+  {
+    "Cuentas": 73951501,
+    "Descripción": "   PEAJES",
+    "p1": 819000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73952501,
+    "Descripción": "   ELEMENTOS DE ASEO Y CAFETERIA",
+    "p1": 816521279,
+    "p2": 97058550,
+    "p3": 130362680
+  },
+  {
+    "Cuentas": 73953001,
+    "Descripción": "   UTILES, PAPELERIA Y FOTOCOPIAS",
+    "p1": 289665726,
+    "p2": 149224784,
+    "p3": 175735707
+  },
+  {
+    "Cuentas": 73953501,
+    "Descripción": "   COMBUSTIBLES Y LUBRICANTES",
+    "p1": 17484351894.27,
+    "p2": 41362136195.66,
+    "p3": 25380325410.3
+  },
+  {
+    "Cuentas": 73954501,
+    "Descripción": "   TAXIS Y BUSES",
+    "p1": 369350000,
+    "p2": 195930000,
+    "p3": 50150000
+  },
+  {
+    "Cuentas": 73956001,
+    "Descripción": "   CASINO Y RESTAURANTE",
+    "p1": 7058818320,
+    "p2": 1973873265,
+    "p3": 7795555548
+  },
+  {
+    "Cuentas": 73956501,
+    "Descripción": "   PARQUEADEROS",
+    "p1": 544563,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73959001,
+    "Descripción": "   ACERO",
+    "p1": 48574000,
+    "p2": 85455460,
+    "p3": 258373940
+  },
+  {
+    "Cuentas": 73959002,
+    "Descripción": "   SOLDADURA",
+    "p1": 65016168.39,
+    "p2": 23624221.8,
+    "p3": 188080792.52
+  },
+  {
+    "Cuentas": 73959003,
+    "Descripción": "   REPUESTOS",
+    "p1": 5069707370.55,
+    "p2": 9223088477.04,
+    "p3": 577132749.44
+  },
+  {
+    "Cuentas": 73959004,
+    "Descripción": "   FERRETERIA",
+    "p1": 1374951761.43,
+    "p2": 2607142924.2,
+    "p3": 4265961134.44
+  },
+  {
+    "Cuentas": 73959005,
+    "Descripción": "   PINTURA",
+    "p1": 11122631,
+    "p2": 33904800,
+    "p3": 17451900
+  },
+  {
+    "Cuentas": 73959006,
+    "Descripción": "   INSUMOS",
+    "p1": 71843381443.26,
+    "p2": 5430423414.96,
+    "p3": 11988339043.72
+  },
+  {
+    "Cuentas": 73959007,
+    "Descripción": "   QUIMICOS",
+    "p1": 6422760.22,
+    "p2": 164412935.04,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73959009,
+    "Descripción": "   EMPAQUE",
+    "p1": 20627148337.47,
+    "p2": 7623299702.19,
+    "p3": 16487313832.8
+  },
+  {
+    "Cuentas": 73959201,
+    "Descripción": "   IMPLEMENTOS DE SEGURIDAD",
+    "p1": 5230736667.09,
+    "p2": 984363054.87,
+    "p3": 2848744312
+  },
+  {
+    "Cuentas": 73959502,
+    "Descripción": "   ATENCION A PROVEEDORES",
+    "p1": 86400000,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 73959595,
+    "Descripción": "   RECUPERACION COSTO EMP DE LAM Y ROLLOS",
+    "p1": -3092408471.52,
+    "p2": -801842986,
+    "p3": -782287551.12
+  },
+  {
+    "Cuentas": 73959596,
+    "Descripción": "   RECUP. CTO EMP PERFILES COMERCIALIZADOS",
+    "p1": -379820221,
+    "p2": 0,
+    "p3": -844348996
+  },
+  {
+    "Cuentas": 73959901,
+    "Descripción": "   TRASLADO A INVENTARIO EN PROCESO",
+    "p1": -646003534313.75,
+    "p2": -41570900265.76,
+    "p3": -4517154604.4
+  },
+  {
+    "Cuentas": 51201501,
+    "Descripción": "   MAQUINARIA Y EQUIPO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 38717010
+  },
+  {
+    "Cuentas": 51201599,
+    "Descripción": "   IVA MAYOR VLR DEL GASTO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 8091
+  },
+  {
+    "Cuentas": 51550599,
+    "Descripción": "   IVA MAYOR VALOR DEL GASTO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 285
+  },
+  {
+    "Cuentas": 52056401,
+    "Descripción": "   ATENCION A EMPLEADOS",
+    "p1": 0,
+    "p2": 0,
+    "p3": 0
+  },
+  {
+    "Cuentas": 52452501,
+    "Descripción": "   EQUIPO DE COMPUTACION Y COMUNICACION",
+    "p1": 0,
+    "p2": 0,
+    "p3": 4447862
+  },
+  {
+    "Cuentas": 52957501,
+    "Descripción": "   IMPLEMENTOS DE SEGURIDAD INDUSTRIAL",
+    "p1": 0,
+    "p2": 0,
+    "p3": 1651275
+  },
+  {
+    "Cuentas": 61351610,
+    "Descripción": "   COSTOS DE VENTA ESCORIA DE ALUMINIO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 618228000
+  },
+  {
+    "Cuentas": 72054802,
+    "Descripción": "   BONIFICACIONES DE PRODUCCION",
+    "p1": 0,
+    "p2": 0,
+    "p3": 368669880
+  },
+  {
+    "Cuentas": 73054801,
+    "Descripción": "   BONIFICACIONES OCASIONALES",
+    "p1": 0,
+    "p2": 0,
+    "p3": 15000000
+  },
+  {
+    "Cuentas": 73157001,
+    "Descripción": "   IVA DESCONTABLE",
+    "p1": 0,
+    "p2": 0,
+    "p3": 16408000
+  },
+  {
+    "Cuentas": 73356501,
+    "Descripción": "   SERVICIO DE AGENCIAMIENTO",
+    "p1": 0,
+    "p2": 0,
+    "p3": 2678823
+  }
+]
