@@ -11,90 +11,91 @@ function handleSelectChange(event, rowData) {
 
 export const orderColumns = [
   {
-    "field": "Cuentas",
-    "isPrimaryKey": true,
-    "headerText": "Código de Cuenta",
-    "textAlign": "Center",
-    "validationRules": { "required": true, "number": true },
-    "width": 60,
-    "defaultValue": ""
+    field: "Cuentas",
+    isPrimaryKey: true,
+    headerText: "Código de Cuenta",
+    textAlign: "Center",
+    validationRules: { required: true, number: true },
+    width: 60,
+    defaultValue: "",
+    justifyContent: "Center",
   },
   {
-    "field": "Descripción",
-    "headerText": "Nombre de la cuenta",
-    "validationRules": { "required": true },
-    "width": 110,
-    "defaultValue": "",
-    "textAlign": "Center"
+    field: "Descripción",
+    headerText: "Nombre de la cuenta",
+    validationRules: { required: true },
+    width: 110,
+    defaultValue: "",
+    textAlign: "Center",
   },
   {
-    "field": "Saldo",
-    "headerText": "Saldo contable",
-    "textAlign": "Center",
-    "validationRules": { "required": true },
-    "width": 90,
-    "defaultValue": "",
-    "format": "C2"
-  },
-  {
-    "field": "debe",
-    "headerText": "DEBE",
-    "textAlign": "Center",
-    "validationRules": { "required": true, "number": true },
-    "width": 60,
-    "defaultValue": "",
-    "format": "C2"
+    field: "Saldo",
+    headerText: "Saldo contable",
+    textAlign: "Center",
+    validationRules: { required: true },
+    width: 90,
+    defaultValue: "",
+    format: "C2",
   },
 
   {
-    "field": "p1",
-    "headerText": "Ajustes y reclasificaciones",
-    "textAlign": "Center",
-    "width": 100,
-    "columns": [
+    field: "p1",
+    headerText: "Ajustes y reclasificaciones",
+    textAlign: "Center",
+    width: 100,
+    columns: [
       {
-        "field": "haber",
-        "headerText": "HABER",
-        "textAlign": "Center",
-        "validationRules": { "required": true, "number": true },
-        "width": 60,
-        "defaultValue": "",
-        "format": "C2"
+        field: "haber",
+        headerText: "HABER",
+        textAlign: "Center",
+        validationRules: { required: true, number: true },
+        width: 60,
+        defaultValue: "",
+        format: "C2",
       },
       {
-        "field": "p2",
-        "headerText": "p2",
-        "width": 100,
-        "validationRules": { "required": true },
-        "textAlign": "Center",
-        "format": "C2"
-      }
-    ]
+        field: "debe",
+        headerText: "DEBE",
+        textAlign: "Center",
+        validationRules: { required: true, number: true },
+        width: 60,
+        defaultValue: "",
+        format: "C2",
+      },
+    ],
+  },
+  {
+    field: "p2",
+    headerText: "p2",
+    width: 100,
+    validationRules: { required: true },
+    textAlign: "Center",
+    format: "C2",
   },
 
   {
-    "field": "p3",
-    "headerText": "p3",
-    "width": 100,
-    "defaultValue": "",
-    "format": "C2",
-    "textAlign": "Center"
+    field: "p3",
+    headerText: "p3",
+    width: 100,
+    defaultValue: "",
+    format: "C2",
+    textAlign: "Center",
   },
   {
-    "field": "haber",
-    "isPrimaryKey": true,
-    "headerText": "Varacion %",
-    "textAlign": "Center",
-    "validationRules": { "required": true, "number": true },
-    "width": 60,
-    "defaultValue": "",
-    "format": "C2"
+    field: "haber",
+    isPrimaryKey: true,
+    headerText: "Varacion %",
+    textAlign: "Center",
+    validationRules: { required: true, number: true },
+    width: 60,
+    defaultValue: "",
+    format: "C2",
   },
-  { 
-    field: 'rubro',
+  {
+    field: "rubro",
     width: 120,
-    headerText: 'Seleccionar',
-    textAlign: 'Center',
-    editType: 'dropdownedit',
-  }
-]
+    headerText: "Seleccionar",
+    textAlign: "Center",
+    editType: "dropdownedit",
+  },
+];

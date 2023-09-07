@@ -31,7 +31,6 @@ const DataGrid = ({ gridColumns, data }) => {
     allowAdding: true,
     allowDeleting: true,
     showDeleteConfirmDialog: true,
-    mode: "Dialog",
   };
 
   const columnMenuItems = [
@@ -85,7 +84,7 @@ const DataGrid = ({ gridColumns, data }) => {
         const newColumns = Array.from({ length: 3 }, (_, index) => {
           return {
             field: uuidv4(),
-            headerText: `Periodo ${index + 1}`,
+            headerText: index === 2 ? `Variación %` : `Periodo ${index + 1}`,
             textAlign: "Center",
             width: 80,
             allowEditing: true,
