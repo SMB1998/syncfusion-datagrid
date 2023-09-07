@@ -8,6 +8,7 @@ import {
   Sort,
   Reorder,
   ColumnMenu,
+  InfiniteScroll
 } from "@syncfusion/ej2-react-grids";
 import { useState } from "react";
 import { v4 as uuidv4 } from "uuid";
@@ -102,12 +103,10 @@ const DataGrid = ({ gridColumns, data }) => {
       <h1 style={{ textAlign: "center" }}>Syncfusion Grid Example</h1>
       <h1 style={{ textAlign: "center" }}>Syncfusion Grid Example</h1>
       <GridComponent
-        locale="es"
         dataSource={data}
         columns={columns}
         pageSettings={pageSettings}
         toolbar={toolbarOptions}
-        
         allowReordering={true}
         showConfirmDialog={true}
         editSettings={editSettings}
@@ -115,8 +114,10 @@ const DataGrid = ({ gridColumns, data }) => {
         columnMenuItems={columnMenuItems}
         columnMenuClick={(args) => handleCustomMenuItem(args)}
         toolbarClick={(args) => handleCustomMenuItem(args)}
+        enableInfiniteScrolling={true}
+        height={380} 
       >
-        <Inject services={[Page, Toolbar, Edit, Reorder, Sort, ColumnMenu]} />
+        <Inject services={[Page, Toolbar, Edit, Reorder, Sort, ColumnMenu, InfiniteScroll]} />
       </GridComponent>
       {isDialogVisible && (
         <DataGridModal
