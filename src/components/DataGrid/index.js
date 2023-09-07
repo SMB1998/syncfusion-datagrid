@@ -107,7 +107,7 @@ const DataGrid = ({ gridColumns, data }) => {
         columns={columns}
         pageSettings={pageSettings}
         toolbar={toolbarOptions}
-        allowPaging={true}
+        
         allowReordering={true}
         showConfirmDialog={true}
         editSettings={editSettings}
