@@ -8,6 +8,7 @@ import {
   Sort,
   Reorder,
   ColumnMenu,
+  InfiniteScroll
   Freeze,
 } from "@syncfusion/ej2-react-grids";
 import { useState } from "react";
@@ -193,11 +194,10 @@ const DataGrid = ({ gridColumns, data }) => {
         columnMenuItems={columnMenuItems}
         columnMenuClick={(args) => handleCustomMenuItem(args)}
         toolbarClick={(args) => handleCustomMenuItem(args)}
-        ref={(g) => (grid = g)}
+        enableInfiniteScrolling={true}
+        height={380} 
       >
-        <Inject
-          services={[Page, Toolbar, Edit, Reorder, Sort, ColumnMenu, Freeze]}
-        />
+        <Inject services={[Page, Toolbar, Edit, Reorder, Sort, ColumnMenu, InfiniteScroll]} />
       </GridComponent>
 
       {isDialogVisible && (
