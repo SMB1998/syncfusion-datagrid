@@ -22,9 +22,9 @@
 }
 
 .e-grid .e-content .e-rowcell {
-  border-right: 1px solid #ccc;
+  border-right: 1px solid #ccc !important;
 }
 
 .e-grid .e-headercell {
-  border-right: 1px solid #ccc;
+  border-right: 1px solid #ccc !important;
 }

@@ -114,13 +114,18 @@ const DataGrid = ({ gridColumns, data }) => {
     <div>
       <h1 style={{ textAlign: "center" }}>Syncfusion Grid Example</h1>
       <h1 style={{ textAlign: "center" }}>Syncfusion Grid Example</h1>
-      <div className="col-lg-4 property-section">
-        <PropertyPane title="Properties">
+      <div
+        className="col-lg-4 property-section"
+        style={{
+          border: "1px solid #ccc",
+          width: "50%",
+        }}
+      >
+        <PropertyPane>
           <table
             id="property"
             title="Properties"
             className="property-panel-table"
-            style={{ width: "100%" }}
           >
             <tr>
               <td style={{ width: "30%" }}>
@@ -163,7 +168,7 @@ const DataGrid = ({ gridColumns, data }) => {
             <tr>
               <td></td>
               <td>
-                <div style={{ float: "right", marginRight: "10px" }}>
+                <div style={{ float: "right", margin: "10px" }}>
                   {/* Render Button component in properties panel */}
                   <ButtonComponent onClick={btnClick.bind(this)}>
                     Set
@@ -176,7 +181,7 @@ const DataGrid = ({ gridColumns, data }) => {
       </div>
       <GridComponent
         locale="es"
-        height="350"
+        height={"700"}
         dataSource={data}
         columns={columns}
         pageSettings={pageSettings}
