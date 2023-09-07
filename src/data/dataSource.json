@@ -34,31 +34,33 @@
     "defaultValue": "",
     "format": "C2"
   },
-  {
-    "field": "haber",
-    "headerText": "HABER",
-    "textAlign": "Center",
-    "validationRules": { "required": true, "number": true },
-    "width": 60,
-    "defaultValue": "",
-    "format": "C2"
-  },
+
   {
     "field": "p1",
-    "headerText": "p1",
+    "headerText": "Ajustes y reclasificaciones",
     "textAlign": "Center",
     "width": 100,
-    "format": "C2",
-    "validationRules": { "required": true }
+    "columns": [
+      {
+        "field": "haber",
+        "headerText": "HABER",
+        "textAlign": "Center",
+        "validationRules": { "required": true, "number": true },
+        "width": 60,
+        "defaultValue": "",
+        "format": "C2"
+      },
+      {
+        "field": "p2",
+        "headerText": "p2",
+        "width": 100,
+        "validationRules": { "required": true },
+        "textAlign": "Center",
+        "format": "C2"
+      }
+    ]
   },
-  {
-    "field": "p2",
-    "headerText": "p2",
-    "width": 100,
-    "validationRules": { "required": true },
-    "textAlign": "Center",
-    "format": "C2"
-  },
+
   {
     "field": "p3",
     "headerText": "p3",
