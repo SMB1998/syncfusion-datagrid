@@ -1,4 +1,15 @@
-[
+const selectOptions = [
+  { id: 1, name: "Opción 1", description: "Descripción 1" },
+  { id: 2, name: "Opción 2", description: "Descripción 2" },
+];
+
+function handleSelectChange(event, rowData) {
+  const selectedId = event.target.value;
+  // Aquí puedes manejar el cambio. Por ejemplo, actualizar el estado, o hacer algo con el ID seleccionado y la fila de datos.
+  console.log("ID seleccionado:", selectedId, "para la fila:", rowData);
+}
+
+export const orderColumns = [
   {
     "field": "Cuentas",
     "isPrimaryKey": true,
@@ -78,5 +89,12 @@
     "width": 60,
     "defaultValue": "",
     "format": "C2"
+  },
+  { 
+    field: 'rubro',
+    width: 120,
+    headerText: 'Seleccionar',
+    textAlign: 'Center',
+    editType: 'dropdownedit',
   }
 ]
