@@ -9,10 +9,15 @@ import {
   Reorder,
   ColumnMenu,
   InfiniteScroll
+  Freeze,
 } from "@syncfusion/ej2-react-grids";
 import { useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 import { DataGridModal } from "../DataGridModal";
+import { NumericTextBoxComponent } from "@syncfusion/ej2-react-inputs";
+import { ButtonComponent } from "@syncfusion/ej2-react-buttons";
+import { PropertyPane } from "./poperty-pane";
+import { Browser } from "@syncfusion/ej2-base";
 
 const DataGrid = ({ gridColumns, data }) => {
   const toolbarOptions = [
@@ -32,7 +37,6 @@ const DataGrid = ({ gridColumns, data }) => {
     allowAdding: true,
     allowDeleting: true,
     showDeleteConfirmDialog: true,
-    mode: "Dialog",
   };
 
   const columnMenuItems = [
@@ -66,6 +70,15 @@ const DataGrid = ({ gridColumns, data }) => {
     setEditingColumn(null);
   };
 
+  let rowInstance = 0;
+  let columnInstance = 0;
+  let grid;
+
+  const btnClick = () => {
+    grid.frozenRows = rowInstance.value;
+    grid.frozenColumns = columnInstance.value;
+  };
+
   const handleCustomMenuItem = (args) => {
     switch (args.item.id) {
       case "customEditOption":
@@ -86,7 +99,7 @@ const DataGrid = ({ gridColumns, data }) => {
         const newColumns = Array.from({ length: 3 }, (_, index) => {
           return {
             field: uuidv4(),
-            headerText: `Periodo ${index + 1}`,
+            headerText: index === 2 ? `Variación %` : `Periodo ${index + 1}`,
             textAlign: "Center",
             width: 80,
             allowEditing: true,
@@ -102,7 +115,68 @@ const DataGrid = ({ gridColumns, data }) => {
     <div>
       <h1 style={{ textAlign: "center" }}>Syncfusion Grid Example</h1>
       <h1 style={{ textAlign: "center" }}>Syncfusion Grid Example</h1>
+      <div className="col-lg-4 property-section">
+        <PropertyPane title="Properties">
+          <table
+            id="property"
+            title="Properties"
+            className="property-panel-table"
+            style={{ width: "100%" }}
+          >
+            <tr>
+              <td style={{ width: "30%" }}>
+                <div>Filas Inmovilizadas </div>
+              </td>
+              <td style={{ width: "70%", paddingRight: "10px" }}>
+                <div style={{ minWidth: "148px" }}>
+                  {/* Render NumericTextbox component with specific range for frozen rows */}
+                  <NumericTextBoxComponent
+                    min={0}
+                    max={5}
+                    validateDecimalOnType={true}
+                    decimals={0}
+                    format="n"
+                    value={rowInstance}
+                    ref={(numeric) => (rowInstance = numeric)}
+                  ></NumericTextBoxComponent>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td style={{ width: "30%" }}>
+                <div>Columnas Inmovilizadas </div>
+              </td>
+              <td style={{ width: "70%", paddingRight: "10px" }}>
+                <div style={{ minWidth: "148px" }}>
+                  {/* Render NumericTextbox component with specific range for frozen columns */}
+                  <NumericTextBoxComponent
+                    min={0}
+                    max={Browser.isDevice ? 1 : 2}
+                    validateDecimalOnType={true}
+                    decimals={0}
+                    format="n"
+                    value={rowInstance}
+                    ref={(numeric) => (columnInstance = numeric)}
+                  ></NumericTextBoxComponent>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <div style={{ float: "right", marginRight: "10px" }}>
+                  {/* Render Button component in properties panel */}
+                  <ButtonComponent onClick={btnClick.bind(this)}>
+                    Set
+                  </ButtonComponent>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </PropertyPane>
+      </div>
       <GridComponent
+        locale="es"
         dataSource={data}
         columns={columns}
         pageSettings={pageSettings}
@@ -119,6 +193,7 @@ const DataGrid = ({ gridColumns, data }) => {
       >
         <Inject services={[Page, Toolbar, Edit, Reorder, Sort, ColumnMenu, InfiniteScroll]} />
       </GridComponent>
+
       {isDialogVisible && (
         <DataGridModal
           editingColumn={editingColumn}

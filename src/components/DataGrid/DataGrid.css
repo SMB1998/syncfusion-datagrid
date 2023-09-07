@@ -6,6 +6,9 @@
   color: black !important;
   background-color: #d8d8d8 !important;
   border-right: 1px solid white !important;
+  align-items: center !important;
+  justify-content: center !important;
+  height: 25px !important;
 }
 
 .e-grid .e-columnheader .e-icons.e-columnmenu::before {
