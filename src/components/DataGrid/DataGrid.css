@@ -8,7 +8,7 @@
   border-right: 1px solid white !important;
   align-items: center !important;
   justify-content: center !important;
-  height: 3vh !important;
+  height: 25px !important;
 }
 
 .e-grid .e-columnheader .e-icons.e-columnmenu::before {
