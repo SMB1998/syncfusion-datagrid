@@ -69,8 +69,8 @@ const DataGrid = ({ gridColumns, data }) => {
     setEditingColumn(null);
   };
 
-  let rowInstance;
-  let columnInstance;
+  let rowInstance = 0;
+  let columnInstance = 0;
   let grid;
 
   const btnClick = () => {
@@ -124,7 +124,7 @@ const DataGrid = ({ gridColumns, data }) => {
           >
             <tr>
               <td style={{ width: "30%" }}>
-                <div>Frozen Rows </div>
+                <div>Filas Inmovilizadas </div>
               </td>
               <td style={{ width: "70%", paddingRight: "10px" }}>
                 <div style={{ minWidth: "148px" }}>
@@ -135,7 +135,7 @@ const DataGrid = ({ gridColumns, data }) => {
                     validateDecimalOnType={true}
                     decimals={0}
                     format="n"
-                    value={2}
+                    value={rowInstance}
                     ref={(numeric) => (rowInstance = numeric)}
                   ></NumericTextBoxComponent>
                 </div>
@@ -143,7 +143,7 @@ const DataGrid = ({ gridColumns, data }) => {
             </tr>
             <tr>
               <td style={{ width: "30%" }}>
-                <div>Frozen Columns </div>
+                <div>Columnas Inmovilizadas </div>
               </td>
               <td style={{ width: "70%", paddingRight: "10px" }}>
                 <div style={{ minWidth: "148px" }}>
@@ -154,7 +154,7 @@ const DataGrid = ({ gridColumns, data }) => {
                     validateDecimalOnType={true}
                     decimals={0}
                     format="n"
-                    value={1}
+                    value={rowInstance}
                     ref={(numeric) => (columnInstance = numeric)}
                   ></NumericTextBoxComponent>
                 </div>
