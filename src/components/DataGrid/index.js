@@ -18,11 +18,10 @@ import { DropDownListComponent } from "@syncfusion/ej2-react-dropdowns";
 import { useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 import { DataGridModal } from "../DataGridModal";
+import { generateNewColumns } from "../../helpers/generateNewColumns";
 
 const DataGrid = ({ gridColumns, data }) => {
   const toolbarOptions = [
-    "Add",
-    "Delete",
     {
       text: "Agregar Periodos",
       id: "add_column",
@@ -83,16 +82,13 @@ const DataGrid = ({ gridColumns, data }) => {
         setColumns(updatedColumns);
         break;
       case "add_column":
-        const newColumns = Array.from({ length: 3 }, (_, index) => {
-          return {
-            field: uuidv4(),
-            headerText: index === 2 ? `Variación %` : `Periodo ${index + 1}`,
-            textAlign: "Center",
-            width: 80,
-            allowEditing: true,
-          };
+        setColumns((prevColumns) => {
+          const newColumns = generateNewColumns(prevColumns);
+          console.log("newColumns", newColumns);
+          const lastIndex = prevColumns.length - 1;
+          const restOfColumns = prevColumns.slice(0, lastIndex);
+          return [...restOfColumns, ...newColumns, prevColumns[lastIndex]];
         });
-        setColumns((prevColumns) => [...prevColumns, ...newColumns]);
         break;
       default:
         break;

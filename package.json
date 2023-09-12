@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@syncfusion/ej2-react-buttons": "^22.2.9",
+    "@syncfusion/ej2-react-dropdowns": "^22.2.12",
     "@syncfusion/ej2-react-grids": "^22.2.12",
     "@syncfusion/ej2-react-inputs": "^22.2.12",
     "@testing-library/jest-dom": "^5.17.0",

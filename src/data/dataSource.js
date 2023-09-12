@@ -70,13 +70,20 @@ export const orderColumns = [
   },
   {
     field: "p2",
+    headerText: "Saldo según Auditoría",
+    width: 160,
+    validationRules: { required: true },
+    textAlign: "Right",
+    format: "C2",
+  },
+  {
+    field: "p2",
     headerText: "Saldo Contable anterior",
     width: 160,
     validationRules: { required: true },
     textAlign: "Right",
     format: "C2",
   },
-
   {
     field: "p3",
     headerText: "Variación",
