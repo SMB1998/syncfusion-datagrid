@@ -34,3 +34,8 @@
 .e-grid .e-frozenheader > .e-table {
   border-right-color: black;
 }
+
+.e-grid .e-row.below-10 .e-rowcell {
+  color: rgb(23, 47, 184) !important;
+  font-weight: 500;
+}
