@@ -84,7 +84,6 @@ const DataGrid = ({ gridColumns, data }) => {
       case "add_column":
         setColumns((prevColumns) => {
           const newColumns = generateNewColumns(prevColumns);
-          console.log("newColumns", newColumns);
           const lastIndex = prevColumns.length - 1;
           const restOfColumns = prevColumns.slice(0, lastIndex);
           return [...restOfColumns, ...newColumns, prevColumns[lastIndex]];

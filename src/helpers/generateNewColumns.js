@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from "uuid";
 
 export const generateNewColumns = (prevColumns) => {
-    const saldoContableCount = prevColumns.filter(col => console.log("conuyt",col.headerText)).length;
+    const saldoContableCount = prevColumns.filter(col => col.headerText.startsWith("Saldo Contable anterior")).length;
     const variacionCount = prevColumns.filter(col => col.headerText.startsWith("Variación")).length;
 
     return Array.from({length:3}, (_, index) => {
