@@ -1,64 +1,68 @@
-const selectOptions = [
-  { id: 1, name: "Opción 1", description: "Descripción 1" },
-  { id: 2, name: "Opción 2", description: "Descripción 2" },
-];
-
-function handleSelectChange(event, rowData) {
-  const selectedId = event.target.value;
-  // Aquí puedes manejar el cambio. Por ejemplo, actualizar el estado, o hacer algo con el ID seleccionado y la fila de datos.
-  console.log("ID seleccionado:", selectedId, "para la fila:", rowData);
-}
-
 export const orderColumns = [
   {
     field: "Cuentas",
-    isPrimaryKey: true,
     headerText: "Código de Cuenta",
-    textAlign: "Center",
+    textAlign: "Left",
     validationRules: { required: true, number: true },
-    width: 60,
+    width: 100,
     defaultValue: "",
-    justifyContent: "Center",
+    template: (props) => {
+      return props.Cuentas;
+    },
   },
   {
     field: "Descripción",
     headerText: "Nombre de la cuenta",
     validationRules: { required: true },
-    width: 110,
+    width: 180,
     defaultValue: "",
-    textAlign: "Center",
+    textAlign: "Left",
   },
   {
     field: "Saldo",
     headerText: "Saldo contable",
-    textAlign: "Center",
     validationRules: { required: true },
-    width: 90,
+    width: 200,
     defaultValue: "",
-    format: "C2",
+    textAlign: "Right",
+    template: (props) => {
+      const formattedSaldo = props.Saldo.toLocaleString("es-CO", {
+        style: "currency",
+        currency: "COP",
+        minimumFractionDigits: 2,
+      });
+      return props.Saldo > 131067969.58 ? (
+        <div style={{ display: "flex", justifyContent: "space-between" }}>
+          <i className="e-icons e-warning" style={{ color: "red" }}></i>
+          {formattedSaldo}
+        </div>
+      ) : (
+        <>{formattedSaldo}</>
+      );
+    },
   },
 
   {
     field: "p1",
     headerText: "Ajustes y reclasificaciones",
     textAlign: "Center",
-    width: 100,
+    width: 200,
     columns: [
       {
         field: "haber",
         headerText: "HABER",
-        textAlign: "Center",
+        textAlign: "Right",
         validationRules: { required: true, number: true },
-        width: 60,
+        width: 110,
         defaultValue: "",
         format: "C2",
       },
       {
         field: "debe",
         headerText: "DEBE",
-        textAlign: "Center",
+        textAlign: "Right",
         validationRules: { required: true, number: true },
-        width: 60,
+        width: 110,
         defaultValue: "",
         format: "C2",
       },
@@ -66,36 +70,39 @@ export const orderColumns = [
   },
   {
     field: "p2",
-    headerText: "p2",
-    width: 100,
+    headerText: "Saldo Contable anterior",
+    width: 160,
     validationRules: { required: true },
-    textAlign: "Center",
+    textAlign: "Right",
     format: "C2",
   },
 
   {
     field: "p3",
-    headerText: "p3",
-    width: 100,
+    headerText: "Variación",
+    width: 160,
     defaultValue: "",
     format: "C2",
-    textAlign: "Center",
+    textAlign: "Right",
   },
   {
-    field: "haber",
+    field: "variacion",
     isPrimaryKey: true,
     headerText: "Varacion %",
-    textAlign: "Center",
+    textAlign: "Right",
     validationRules: { required: true, number: true },
-    width: 60,
+    width: 110,
     defaultValue: "",
-    format: "C2",
+    format: "p",
   },
   {
     field: "rubro",
-    width: 120,
-    headerText: "Seleccionar",
-    textAlign: "Center",
+    width: 180,
+    headerText: "Rubro al que corresponde en el Plan de Auditoria",
+    textAlign: "Right",
     editType: "dropdownedit",
+    editSettings: {
+      showDropdownAlways: true,
+    },
   },
 ];

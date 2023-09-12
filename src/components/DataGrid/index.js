@@ -8,22 +8,21 @@ import {
   Sort,
   Reorder,
   ColumnMenu,
-  InfiniteScroll
+  InfiniteScroll,
   Freeze,
 } from "@syncfusion/ej2-react-grids";
+import { getValue } from "@syncfusion/ej2-base";
+import { DataUtil } from "@syncfusion/ej2-data";
+import * as ReactDOM from "react-dom";
+import { DropDownListComponent } from "@syncfusion/ej2-react-dropdowns";
 import { useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 import { DataGridModal } from "../DataGridModal";
-import { NumericTextBoxComponent } from "@syncfusion/ej2-react-inputs";
-import { ButtonComponent } from "@syncfusion/ej2-react-buttons";
-import { PropertyPane } from "./poperty-pane";
-import { Browser } from "@syncfusion/ej2-base";
 
 const DataGrid = ({ gridColumns, data }) => {
   const toolbarOptions = [
     "Add",
     "Delete",
-    "Search",
     {
       text: "Agregar Periodos",
       id: "add_column",
@@ -37,13 +36,10 @@ const DataGrid = ({ gridColumns, data }) => {
     allowAdding: true,
     allowDeleting: true,
     showDeleteConfirmDialog: true,
+    showDropdownAlways: true,
   };
 
   const columnMenuItems = [
-    {
-      text: "Editar",
-      id: "customEditOption",
-    },
     {
       text: "Eliminar",
       id: "customDeleteOption",
@@ -68,15 +64,6 @@ const DataGrid = ({ gridColumns, data }) => {
     setColumns(updatedColumns);
     setIsDialogVisible(false);
     setEditingColumn(null);
-  };
-
-  let rowInstance = 0;
-  let columnInstance = 0;
-  let grid;
-
-  const btnClick = () => {
-    grid.frozenRows = rowInstance.value;
-    grid.frozenColumns = columnInstance.value;
   };
 
   const handleCustomMenuItem = (args) => {
@@ -111,75 +98,17 @@ const DataGrid = ({ gridColumns, data }) => {
         break;
     }
   };
+
+  const onChange = (args) => {
+    /** Event will trigger when you have change the value in dropdown column */
+    alert(args.value);
+  };
   return (
     <div>
-      <h1 style={{ textAlign: "center" }}>Syncfusion Grid Example</h1>
-      <h1 style={{ textAlign: "center" }}>Syncfusion Grid Example</h1>
-      <div
-        className="col-lg-4 property-section"
-        style={{
-          border: "1px solid #ccc",
-          width: "50%",
-        }}
-      >
-        <PropertyPane>
-          <table
-            id="property"
-            title="Properties"
-            className="property-panel-table"
-          >
-            <tr>
-              <td style={{ width: "30%" }}>
-                <div>Filas Inmovilizadas </div>
-              </td>
-              <td style={{ width: "70%", paddingRight: "10px" }}>
-                <div style={{ minWidth: "148px" }}>
-                  {/* Render NumericTextbox component with specific range for frozen rows */}
-                  <NumericTextBoxComponent
-                    min={0}
-                    max={5}
-                    validateDecimalOnType={true}
-                    decimals={0}
-                    format="n"
-                    value={rowInstance}
-                    ref={(numeric) => (rowInstance = numeric)}
-                  ></NumericTextBoxComponent>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td style={{ width: "30%" }}>
-                <div>Columnas Inmovilizadas </div>
-              </td>
-              <td style={{ width: "70%", paddingRight: "10px" }}>
-                <div style={{ minWidth: "148px" }}>
-                  {/* Render NumericTextbox component with specific range for frozen columns */}
-                  <NumericTextBoxComponent
-                    min={0}
-                    max={Browser.isDevice ? 1 : 2}
-                    validateDecimalOnType={true}
-                    decimals={0}
-                    format="n"
-                    value={rowInstance}
-                    ref={(numeric) => (columnInstance = numeric)}
-                  ></NumericTextBoxComponent>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td></td>
-              <td>
-                <div style={{ float: "right", margin: "10px" }}>
-                  {/* Render Button component in properties panel */}
-                  <ButtonComponent onClick={btnClick.bind(this)}>
-                    Set
-                  </ButtonComponent>
-                </div>
-              </td>
-            </tr>
-          </table>
-        </PropertyPane>
-      </div>
+      <h1 style={{ textAlign: "center", color: "white" }}>
+        Syncfusion Grid Example
+      </h1>
+
       <GridComponent
         locale="es"
         height={"700"}
@@ -187,7 +116,6 @@ const DataGrid = ({ gridColumns, data }) => {
         columns={columns}
         pageSettings={pageSettings}
         toolbar={toolbarOptions}
-        allowReordering={true}
         showConfirmDialog={true}
         editSettings={editSettings}
         showColumnMenu={true}
@@ -195,9 +123,48 @@ const DataGrid = ({ gridColumns, data }) => {
         columnMenuClick={(args) => handleCustomMenuItem(args)}
         toolbarClick={(args) => handleCustomMenuItem(args)}
         enableInfiniteScrolling={true}
-        height={380} 
+        enableStickyHeader={true}
+        frozenColumns={2}
+        frozenRows={0}
+        queryCellInfo={(args) => {
+          if (args.column.field === "Saldo") {
+            if (args.data.Saldo > 131067969.58) {
+              //based on condition we have set the font color to the cell
+              args.cell.style.color = "red";
+            } else {
+              args.cell.style.color = "dark";
+            }
+          }
+
+          if (args.column.field === "rubro") {
+            const drop = DataUtil.distinct(data, "rubro");
+            const val = getValue(args.column.field, args.data);
+            ReactDOM.render(
+              <div style={{ maxHeight: 15 }}>
+                <DropDownListComponent
+                  id="dropdown"
+                  value={val}
+                  dataSource={drop}
+                  change={onChange}
+                />
+              </div>,
+              args.cell
+            );
+          }
+        }}
       >
-        <Inject services={[Page, Toolbar, Edit, Reorder, Sort, ColumnMenu, InfiniteScroll]} />
+        <Inject
+          services={[
+            Page,
+            Toolbar,
+            Edit,
+            Reorder,
+            Sort,
+            ColumnMenu,
+            InfiniteScroll,
+            Freeze,
+          ]}
+        />
       </GridComponent>
 
       {isDialogVisible && (

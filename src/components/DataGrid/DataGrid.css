@@ -28,3 +28,9 @@
 .e-grid .e-headercell {
   border-right: 1px solid #ccc !important;
 }
+
+.e-grid .e-frozencontent > .e-table,
+.e-grid .e-frozencontent .e-virtualtable > .e-table,
+.e-grid .e-frozenheader > .e-table {
+  border-right-color: black;
+}
