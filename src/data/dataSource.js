@@ -1,3 +1,5 @@
+import { TooltipComponent } from "@syncfusion/ej2-react-popups";
+
 export const orderColumns = [
   {
     field: "Cuentas",
@@ -33,7 +35,13 @@ export const orderColumns = [
       });
       return props.Saldo > 131067969.58 ? (
         <div style={{ display: "flex", justifyContent: "space-between" }}>
-          <i className="e-icons e-warning" style={{ color: "red" }}></i>
+          <TooltipComponent
+            content={
+              "Es el saldo total de tu cuenta que tiene contemplado los pagos o compras que aún no han sido cobrados por el comercio o empresa: en otras palabras:  es el saldo disponible + los cobros sin procesar (dinero que no puedes usar)."
+            }
+          >
+            <i className="e-icons e-warning" style={{ color: "red" }}></i>
+          </TooltipComponent>
           {formattedSaldo}
         </div>
       ) : (

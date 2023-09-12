@@ -96,7 +96,6 @@ const DataGrid = ({ gridColumns, data }) => {
   };
 
   const onChange = (args) => {
-    /** Event will trigger when you have change the value in dropdown column */
     alert(args.value);
   };
   return (
@@ -104,7 +103,6 @@ const DataGrid = ({ gridColumns, data }) => {
       <h1 style={{ textAlign: "center", color: "white" }}>
         Syncfusion Grid Example
       </h1>
-
       <GridComponent
         locale="es"
         height={"700"}
@@ -122,10 +120,18 @@ const DataGrid = ({ gridColumns, data }) => {
         enableStickyHeader={true}
         frozenColumns={2}
         frozenRows={0}
+        rowDataBound={(args) => {
+          if (args.row) {
+            if (args.data.Cuentas < 10) {
+              console.log(args, "ARGSSS");
+              args.row.classList.add("below-10");
+            } else {
+            }
+          }
+        }}
         queryCellInfo={(args) => {
           if (args.column.field === "Saldo") {
             if (args.data.Saldo > 131067969.58) {
-              //based on condition we have set the font color to the cell
               args.cell.style.color = "red";
             } else {
               args.cell.style.color = "dark";
