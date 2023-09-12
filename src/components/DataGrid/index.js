@@ -21,8 +21,6 @@ import { DataGridModal } from "../DataGridModal";
 
 const DataGrid = ({ gridColumns, data }) => {
   const toolbarOptions = [
-    "Add",
-    "Delete",
     {
       text: "Agregar Periodos",
       id: "add_column",
