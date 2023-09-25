@@ -16,7 +16,6 @@ import { DataUtil } from "@syncfusion/ej2-data";
 import * as ReactDOM from "react-dom";
 import { DropDownListComponent } from "@syncfusion/ej2-react-dropdowns";
 import { useState } from "react";
-import { v4 as uuidv4 } from "uuid";
 import { DataGridModal } from "../DataGridModal";
 import { generateNewColumns } from "../../helpers/generateNewColumns";
 

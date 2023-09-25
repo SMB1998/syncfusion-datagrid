@@ -1,7 +1,7 @@
 import "./App.css";
-import DataGrid from "./components/DataGrid";
-import {data} from "./data/variaciones";
-import { orderColumns } from "./data/dataSource";
+import DataGrid from "../components/DataGrid";
+import {data} from "../data/variaciones";
+import { orderColumns } from "../data/dataSource";
 
 function App() {
   return (
